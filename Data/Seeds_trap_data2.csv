@@ -1,0 +1,997 @@
+Year;Season;Site;Station;Species;Filled_seeds;Unfilled_seeds;Half_seeds;Cones;Cones_filled_seeds;Cones_unfilled_seeds;Notes;Sorter;Error_check;Sorter2
+2025;Spring;NAT;4;Pinus mugo;12;40;0;1;0;22;;FL;75;FL
+2025;Spring;BEA;7;Picea abies;5;2;0;2;36;45;;FL;90;FL
+2025;Spring;CEL;9;Pinus cembra;2;1;7;0;0;0;;FL;10;FL
+2025;Spring;CEL;9;Larix decidua;1;4;0;0;0;0;;FL;5;FL
+2025;Spring;BET;10;Picea abies;3;1;0;0;0;0;;FL;4;FL
+2025;Spring;NAT;3;Pinus mugo;10;4;9;1;0;0;;FL;24;FL
+2025;Spring;NAT;2;Pinus mugo;6;2;12;0;0;0;;FL;20;FL
+2025;Spring;NAT;1;Pinus mugo;29;10;34;0;0;0;;FL;73;FL
+2025;Spring;NAT;5;Pinus mugo;6;1;4;0;0;0;;FL;11;FL
+2025;Spring;NAT;6;Pinus mugo;16;8;17;0;0;0;;FL;41;FL
+2025;Spring;NAT;7;Pinus mugo;13;5;16;0;0;0;;FL;34;FL
+2025;Spring;NAT;8;Pinus mugo;14;7;4;0;0;0;;FL;25;FL
+2025;Spring;NAT;9;Pinus mugo;12;5;15;0;0;0;;FL;32;FL
+2025;Spring;NAT;10;Pinus mugo;9;12;17;0;0;0;;FL;38;FL
+2025;Spring;BEA;9;Picea abies;7;5;0;1;9;90;;FL;112;FL
+2025;Spring;CEL;7;Pinus cembra;0;2;0;0;0;0;seeds destroyed;FL;2;FL
+2025;Spring;CEL;7;Larix decidua;4;4;1;0;0;0;;FL;9;FL
+2025;Spring;CEL;8;Larix decidua;13;9;0;0;0;0;;FL;22;FL
+2025;Spring;CEL;8;Pinus cembra;3;0;5;1;1;1;;FL;11;FL
+2025;Spring;CEL;10;Pinus cembra;0;4;4;0;0;0;;FL;8;FL
+2025;Spring;CEL;1;Larix decidua;16;14;0;0;0;0;;FL;30;FL
+2025;Spring;CEL;1;Pinus cembra;0;2;0;0;0;0;;FL;2;FL
+2025;Spring;CEL;2;Larix decidua;16;9;0;0;0;0;;FL;25;FL
+2025;Spring;CEL;2;Pinus cembra;2;4;0;0;0;0;;FL;6;FL
+2025;Spring;CEL;2;Corylus avellana;0;2;0;0;0;0;not sure what it is exactly but looks like a squished corylus avellana;FL;2;FL
+2025;Spring;CEL;3;Pinus cembra;0;7;0;0;0;0;seeds destroyed;FL;7;FL
+2025;Spring;CEL;3;Larix decidua;2;0;0;0;0;0;;FL;2;FL
+2025;Spring;CEL;4;Pinus cembra;0;5;0;0;0;0;;FL;5;FL
+2025;Spring;CEL;4;Larix decidua;2;0;0;0;0;0;;FL;2;FL
+2025;Spring;CEL;5;Larix decidua;2;2;0;0;0;0;;FL;4;FL
+2025;Spring;CEL;5;Pinus cembra;0;~2;0;0;0;0;seeds destroyed;FL;0;FL
+2025;Spring;BET;9;Picea abies;7;1;0;1;0;0;;FL;9;FL
+2025;Spring;BET;8;Picea abies;29;16;0;2;93;95;;FL;235;FL
+2025;Spring;BET;7;Picea abies;7;11;0;0;0;0;;FL;18;FL
+2025;Spring;BET;7;Abies alba;0;1;0;0;0;0;no cones, just some scales and a piece of Fagus sylvatica cone;FL;1;FL
+2025;Spring;BET;6;Picea abies;12;3;0;0;0;0;;FL;15;FL
+2025;Spring;BET;5;Abies alba;1;2;0;0;0;0;;FL;3;FL
+2025;Spring;BET;5;Picea abies;15;21;0;1;27;136;;FL;200;FL
+2025;Spring;BET;4;Picea abies;11;6;0;0;0;0;;FL;17;FL
+2025;Spring;BET;4;Acer pseudoplatanus;0;2;0;0;0;0;;FL;2;FL
+2025;Spring;BET;3;Picea abies;3;4;0;0;0;0;;FL;7;FL
+2025;Spring;BET;3;Abies alba;1;0;0;0;0;0;;FL;1;FL
+2025;Spring;BET;2;Picea abies;7;0;0;0;0;0;;FL;7;FL
+2025;Spring;BET;2;Fagus sylvatica;0;0;0;1;0;0;no seeds, just a cone;FL;1;FL
+2025;Spring;BET;1;Picea abies;3;1;0;0;0;0;;FL;4;FL
+2025;Spring;BET;1;Abies alba;0;1;0;0;0;0;;FL;1;FL
+2025;Spring;BET;1;Ilex aquifolium;1;0;0;0;0;0;;FL;1;FL
+2025;Spring;VOR;3;Abies alba;19;24;0;~ 1;0;4;just some scales, maybe make up 1 cone in total;FL;47;FL
+2025;Spring;VOR;3;Picea abies;1;0;0;1;23;30;;FL;55;FL
+2025;Spring;CEL;6;Larix decidua;8;2;0;0;0;0;;FL;10;FL
+2025;Spring;CEL;6;Pinus cembra;0;2;0;0;0;0;;FL;2;FL
+2025;Spring;SCH;1;Acer pseudoplatanus;3;7;0;0;0;0;;RK;10;RK
+2025;Spring;SCH;1;Fraxinus excelsior;0;1;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;1;Larix decidua;0;1;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;3;Fagus sylvatica;1;2;0;1;0;0;;RK;4;RK
+2025;Spring;SCH;3;Acer pseudoplatanus;5;8;0;0;0;0;;RK;13;RK
+2025;Spring;SCH;3;Abies alba;0;1;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;5;Fagus sylvatica;0;0;0;1;0;0;;RK;1;RK
+2025;Spring;SCH;5;Acer pseudoplatanus;3;6;0;0;0;0;;RK;9;RK
+2025;Spring;SCH;5;Larix decidua;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;2;Fagus sylvatica;0;1;0;5;0;0;;RK;6;RK
+2025;Spring;SCH;2;Abies alba;0;1;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;2;Acer pseudoplatanus;2;3;0;0;0;0;;RK;5;RK
+2025;Spring;SCH;2;Larix decidua;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;4;Fagus sylvatica;0;1;0;1;0;0;;RK;2;RK
+2025;Spring;SCH;4;Acer pseudoplatanus;6;8;0;0;0;0;;RK;14;RK
+2025;Spring;SCH;4;Picea abies;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;6;Fagus sylvatica;0;4;0;1;0;0;;RK;5;RK
+2025;Spring;SCH;6;Fraxinus excelsior;0;2;0;0;0;0;;RK;2;RK
+2025;Spring;SCH;6;Acer pseudoplatanus;0;17;0;0;0;0;;RK;17;RK
+2025;Spring;SCH;7;Fagus sylvatica;0;1;0;1;0;0;;RK;2;RK
+2025;Spring;SCH;7;Acer pseudoplatanus;0;9;0;0;0;0;;RK;9;RK
+2025;Spring;SCH;7;Fraxinus excelsior;1;1;0;0;0;0;;RK;2;RK
+2025;Spring;SCH;7;Larix decidua;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;8;Acer pseudoplatanus;2;7;0;0;0;0;;RK;9;RK
+2025;Spring;SCH;8;Abies alba;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;SCH;9;Fagus sylvatica;0;7;0;6;0;0;;RK;13;RK
+2025;Spring;SCH;9;Acer pseudoplatanus;2;5;0;0;0;0;;RK;7;RK
+2025;Spring;SCH;9;Abies alba;5;6;0;0;0;0;;RK;11;RK
+2025;Spring;SCH;9;Larix decidua;2;0;0;0;0;0;;RK;2;RK
+2025;Spring;SCH;10;Fagus sylvatica;1;5;0;2;0;0;;RK;8;RK
+2025;Spring;SCH;10;Acer pseudoplatanus;3;6;0;0;0;0;;RK;9;RK
+2025;Spring;SCH;10;Larix decidua;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;NEU;1;Acer pseudoplatanus;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;NEU;1;Tilia platyphyllos;0;1;0;0;0;0;;RK;1;RK
+2025;Spring;NEU;2;Fagus sylvatica;0;1;0;1;0;0;;RK;2;RK
+2025;Spring;NEU;2;Acer pseudoplatanus;0;1;0;0;0;0;;RK;1;RK
+2025;Spring;NEU;3;Fagus sylvatica;0;0;0;1;0;0;;RK;1;RK
+2025;Spring;NEU;3;Tilia platyphyllos;3;1;0;0;0;0;;RK;4;RK
+2025;Spring;NEU;4;Fagus sylvatica;0;0;0;4;0;0;;RK;4;RK
+2025;Spring;NEU;4;Tilia platyphyllos;1;1;0;0;0;0;;RK;2;RK
+2025;Spring;NEU;4;Acer pseudoplatanus;0;2;0;0;0;0;;RK;2;RK
+2025;Spring;NEU;5;Fagus sylvatica;0;2;0;2;0;0;;RK;4;RK
+2025;Spring;NEU;6;Acer pseudoplatanus;1;17;0;0;0;0;;RK;18;RK
+2025;Spring;NEU;6;Tilia platyphyllos;2;1;0;0;0;0;;RK;3;RK
+2025;Spring;NEU;7;Fagus sylvatica;0;0;0;3;0;0;;RK;3;RK
+2025;Spring;NEU;7;Acer pseudoplatanus;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;NEU;7;Tilia platyphyllos;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;NEU;7;Tilia cordata;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;NEU;8;Fagus sylvatica ;0;0;0;2;0;2;;RK;4;RK
+2025;Spring;NEU;9;Fagus sylvatica;0;0;0;1;0;0;;RK;1;RK
+2025;Spring;NEU;9;Acer pseudoplatanus;0;3;0;0;0;0;;RK;3;RK
+2025;Spring;NEU;9;Tilia platyphyllos;3;2;0;0;0;0;;RK;5;RK
+2025;Spring;NEU;10;Fagus sylvatica;0;0;0;1;0;0;;RK;1;RK
+2025;Spring;NEU;10;Acer pseudoplatanus;1;3;0;0;0;0;;RK;4;RK
+2025;Spring;NEU;10;Tilia platyphyllos;3;0;0;0;0;0;;RK;3;RK
+2025;Spring;BEA;1;Picea abies;2;2;0;0;0;0;;RK;4;RK
+2025;Spring;BEA;2;Picea abies;3;2;0;0;0;0;;RK;5;RK
+2025;Spring;BEA;3;Picea abies;3;2;0;0;0;0;;RK;5;RK
+2025;Spring;BEA;4;Picea abies;1;0;0;0;0;0;;RK;1;RK
+2025;Spring;BEA;5;Picea abies;2;1;0;0;0;0;;RK;3;RK
+2025;Spring;BEA;8;Picea abies;7;5;0;0;0;0;;RK;12;RK
+2025;Spring;BEA;10;Picea abies;4;2;0;0;0;0;;RK;6;RK
+2025;Spring;BEA;6;Picea abies;0;5;0;1;16;39;;RK;61;RK
+2025;Spring;VOR;2;Abies alba;4;13;0;0;0;0;;RK;17;RK
+2025;Spring;VOR;1;Abies alba;7;15;0;0,5;0;0;only pieces of the cone;RK;22,5;RK
+2025;Spring;VOR;4;Abies alba;8;4;0;0,5;0;1;only pieces of the cone;RK;13,5;RK
+2025;Spring;VOR;5;Abies alba;3;9;0;0;0;0;;RK;12;RK
+2025;Spring;VOR;5;Picea abies;1;2;0;0;0;0;or Larix decidua?;RK;3;RK
+2025;Spring;VOR;6;Abies alba;1;3;0;0;0;0;;RK;4;RK
+2025;Spring;VOR;7;Abies alba;11;21;0;0,5;0;3;only pieces of the cone;RK;35,5;RK
+2025;Spring;VOR;7;Picea abies;0;4;3;0;0;0;;RK;7;RK
+2025;Spring;VOR;9;Abies alba;0;1;0;0;0;0;;RK;1;RK
+2025;Spring;VOR;8;Abies alba;4;9;0;0,5;0;1;only pieces of the cone;RK;14,5;RK
+2025;Spring;VOR;10;Abies alba;2;11;0;0,5;0;0;only pieces of the cone;RK;13,5;RK
+2025;Spring;VOR;10;Picea abies;4;2;0;0;0;0;;RK;6;RK
+2024;Spring;SCH;10;Fagus sylvatica;39;22;0;38;0;3;;LW;102;
+2024;Spring;SCH;10;Acer pseudoplatanus;14;6;0;0;0;0;;LW;20;
+2024;Spring;SCH;10;Acer platanoides;1;0;0;0;0;0;;LW;1;
+2024;Spring;BEA;8;Picea abies;210;54;13;1;4;2;;LW;284;
+2024;Spring;SCH;8;Fagus sylvatica;38;62;0;60;0;1;;LW;161;
+2024;Spring;SCH;8;Acer pseudoplatanus;11;5;0;0;0;0;;LW;16;
+2024;Spring;SCH;8;Acer platanoides;0;1;0;0;0;0;;LW;1;
+2024;Spring;SCH;8;Fraxinus excelsior;1;0;0;0;0;0;;LW;1;
+2024;Spring;SCH;8;Abies alba;4;0;0;0;0;0;;LW;4;
+2024;Spring;SCH;9;Fagus sylvatica;33;25;0;31;0;3;;LW;92;
+2024;Spring;SCH;9;Abies alba ;3;0;0;0;0;0;;LW;3;
+2024;Spring;SCH;9;Fraxinus excelsior;2;0;0;0;0;0;;LW;2;
+2024;Spring;SCH;9;Acer pseudoplatanus;13;3;0;0;0;0;;LW;16;
+2024;Spring;NEU;1;Acer pseudoplatanus;2;0;0;0;0;0;;LW;2;
+2024;Spring;NEU;1;Fagus sylvatica;1;21;0;36;0;4;Most unfilled or have a hole;LW;62;
+2024;Spring;NEU;1;Picea abies;1;0;0;0;0;0;;LW;1;
+2024;Spring;NEU;1;Acer platanoides;0;1;0;0;0;0;;LW;1;
+2024;Spring;BET;3;Sorbus aria;29;17;0;37;45;70;;LW;198;
+2024;Spring;BET;3;Fagus sylvatica;12;13;0;16;0;2;;LW;43;
+2024;Spring;BET;3;Abies alba;4;2;0;0;0;0;;LW;6;
+2024;Spring;BET;3;Acer pseudoplatanus;23;8;0;0;0;0;;LW;31;
+2024;Spring;BET;3;Picea abies;5;0;0;0;0;0;;LW;5;
+2024;Spring;CEL;8;Larix decidua;94;6;151;2;52;15;;LW;320;
+2024;Spring;CEL;8;Pinus cembra;1;0;0;0;0;0;;LW;1;
+2024;Spring;NAT;1;Pinus mugo;1;3;13;2;0;0;1 cone underdeveloped;LW;19;
+2024;Spring;VOR;7;Picea abies;4;1;0;0;0;0;;LW;5;
+2024;Spring;VOR;7;Abies alba;5;5;0;0;0;0;1 cone scale with 1 unfilled and one filled seed;LW;10;
+2024;Spring;VOR;7;Larix decidua;4;0;0;0;0;0;;LW;4;
+2024;Spring;BEA;7;Picea abies;182;50;110;1;0;0;cone underdeveloped;LW;343;
+2024;Spring;VOR;1;Abies alba;3;5;0;0;0;0;1 cone scale with 2 unfilled seeds;LW;8;
+2024;Spring;VOR;1;Fagus sylvatica;0;1;0;0;0;0;;LW;1;
+2024;Spring;VOR;2;Abies alba;3;3;0;0;0;0;unfilled with holes;LW;6;
+2024;Spring;NEU;4;Fagus sylvatica;5;47;0;26;0;2;;JN;80;
+2024;Spring;NEU;4;Fraxinus excelsior;0;1;0;0;0;0;;JN;1;
+2024;Spring;SCH;4;Fagus sylvatica;57;19;0;24;0;0;;JN;100;
+2024;Spring;SCH;4;Fraxinus excelsior;2;0;0;0;0;0;;JN;2;
+2024;Spring;SCH;4;Acer pseudoplatanus;15;12;0;0;0;0;;JN;27;
+2024;Spring;SCH;4;Acer platanoides;0;1;0;0;0;0;;JN;1;
+2024;Spring;SCH ;5;Fagus sylvatica;53;36;0;25;0;2;;RK;116;
+2024;Spring;SCH ;5;Acer pseudoplatanus;18;10;0;0;0;0;;RK;28;
+2024;Spring;VOR;9;Picea abies;2;0;1;2;25;19;;RK;49;
+2024;Spring;VOR;9;Fagus sylvatica;4;1;0;0;0;0;;RK;5;
+2024;Spring;VOR;9;Abies alba;1;0;0;0;0;0;;RK;1;
+2024;Spring;SCH ;7;Fagus sylvatica;5;3;0;3;1;0;;RK;12;
+2024;Spring;SCH ;7;Acer pseudoplatanus;16;14;0;0;0;0;;RK;30;
+2024;Spring;SCH ;7;Fraxinus excelsior;1;0;0;0;0;0;;RK;1;
+2024;Spring;VOR;9;Carpinus betulus;3;1;0;0;0;0;;RK;4;
+2024;Spring;NAT;6;Pinus mugo;3;1;15;0;0;0;;RK;19;
+2024;Spring;NAT;9;Pinus mugo;2;0;5;0;0;0;;RK;7;
+2024;Spring;NAT;7;Pinus mugo;0;0;2;0;0;0;;RK;2;
+2024;Spring;NAT;5;Pinus mugo;2;0;2;0;0;0;;RK;4;
+2024;Spring;NAT;2;Pinus mugo;1;0;20;0;0;0;;RK;21;
+2024;Spring;NAT;4;Pinus mugo;3;0;7;0;0;0;;RK;10;
+2024;Spring;NAT;10;Pinus mugo;3;2;7;1;0;0;;RK;13;
+2024;Spring;NAT;8;Pinus mugo;1;2;3;0;0;0;;RK;6;
+2024;Spring;NAT;3;Pinus mugo;2;0;16;1;0;0;;RK;19;
+2024;Spring;CEL;5;Pinus cembra;0;0;2;0;0;0;;RK;2;
+2024;Spring;CEL;5;Larix decidua;11;4;15;0;0;0;;RK;30;
+2024;Spring;CEL;10;Pinus cembra;2;0;0;0;0;0;;RK;2;
+2024;Spring;CEL;10;Larix decidua;17;0;1;0;0;0;;RK;18;
+2024;Spring;CEL;1;Pinus cembra;1;0;0;0;0;0;;RK;1;
+2024;Spring;CEL;1;Larix decidua;58;0;154;0;0;0;;RK;212;
+2024;Spring;CEL;1;Picea abies;0;0;0;1;2;0;;RK;3;
+2024;Spring;CEL;2;Pinus cembra;1;0;3;0;0;0;;RK;4;
+2024;Spring;CEL;2;Larix decidua;74;6;102;0;0;0;;RK;182;
+2024;Spring;CEL;7;Larix decidua;28;2;31;1;0;0;;RK;62;
+2024;Spring;CEL;4;Pinus cembra;4;0;3;0;0;0;;RK;7;
+2024;Spring;CEL;4;Larix decidua ;6;2;0;0;0;0;;RK;8;
+2024;Spring;CEL;6;Pinus cembra;5;0;6;1;20;1;;RK;33;
+2024;Spring;CEL;6;Larix decidua;22;4;13;0;0;0;;RK;39;
+2024;Spring;CEL;3;Pinus cembra;10;2;6;1;47;0;;RK;66;
+2024;Spring;CEL;3;Larix decidua;25;0;0;0;0;0;;RK;25;
+2024;Spring;CEL;9;Pinus cembra;3;0;1;1;38;3;;RK;46;
+2024;Spring;CEL;9;Larix decidua;37;9;5;0;0;0;;RK;51;
+2024;Spring;BEA;2;Picea abies;62;17;4;0;0;0;;RK;83;
+2024;Spring;BEA;3;Picea abies;63;18;13;0;0;0;;RK;94;
+2024;Spring;BEA;1;Picea abies;70;44;29;0;0;0;;RK;143;
+2024;Spring;BEA;10;Picea abies;122;38;0;0;0;0;;RK;160;
+2024;Spring;BEA;4;Picea abies;89;13;13;0;0;0;;RK;115;
+2024;Spring;VOR;8;Fagus sylvatica;1;0;0;1;0;0;;FL;2;
+2024;Spring;VOR;8;Larix decidua;1;0;0;0;0;0;;FL;1;
+2024;Spring;VOR;5;Abies alba;1;0;0;0;0;0;;FL;1;
+2024;Spring;VOR;5;Pinus mugo;0;1;0;0;0;0;;FL;1;
+2024;Spring;VOR;5;Picea abies;5;0;0;0;0;0;;FL;5;
+2024;Spring;BET;7;Acer pseudoplatanus;6;1;0;0;0;0;;FL;7;
+2024;Spring;BET;7;Acer campestre;1;0;0;0;0;0;;FL;1;
+2024;Spring;BET;7;Fagus sylvatica ;3;1;0;1;0;0;;FL;5;
+2024;Spring;BET;7;Abies alba;9;1;0;0;0;0;;FL;10;
+2024;Spring;BET;7;Picea abies;15;5;0;0;0;0;;FL;20;
+2024;Spring;BET;9;Picea abies;5;0;0;0;0;0;;FL;5;
+2024;Spring;BET;9;Abies alba;9;4;0;0;0;0;;FL;13;
+2024;Spring;BET;9;Acer pseudoplatanus;8;4;0;0;0;0;;FL;12;
+2024;Spring;BET;9;Fagus sylvatica;3;24;0;11;0;0;;FL;38;
+2024;Spring;BET;10;Fagus sylvatica;6;21;0;12;0;2;;FL;41;
+2024;Spring;BET;10;Abies alba ;5;2;0;0;0;0;;FL;7;
+2024;Spring;BET;10;Acer pseudoplatanus;13;2;0;0;0;0;;FL;15;
+2024;Spring;BET;4;Picea abies;41;6;0;1;0;10;;FL;58;
+2024;Spring;BET;4;Fagus sylvatica;4;8;0;12;1;0;;FL;25;
+2024;Spring;BET;4;Abies alba;8;3;0;0;0;0;;FL;11;
+2024;Spring;BET;2;Fagus sylvatica;1;7;0;6;0;0;;FL;14;
+2024;Spring;BET;2;Abies alba ;11;6;0;1;13;38;;FL;69;
+2024;Spring;BET;2;Acer pseudoplatanus;3;0;0;0;0;0;;FL;3;
+2024;Spring;BET;2;Picea abies;1;0;0;0;0;0;;FL;1;
+2024;Spring;VOR;4;Abies alba ;2;2;0;0;0;0;;FL;4;
+2024;Spring;VOR;4;Picea abies;1;0;0;0;0;0;;FL;1;
+2024;Spring;VOR;10;Fagus sylvatica;1;0;0;0;0;0;;FL;1;
+2024;Spring;VOR;10;Picea abies;3;0;0;0;0;0;;FL;3;
+2024;Spring;BET;1;Fagus sylvatica;4;14;0;22;0;1;;FL;41;
+2024;Spring;BET;1;Picea abies;19;2;0;0;0;0;;FL;21;
+2024;Spring;BET;1;Abies alba ;11;7;0;0;0;0;;FL;18;
+2024;Spring;BET;1;Acer pseudoplatanus;6;1;0;0;0;0;;FL;7;
+2024;Spring;BET;6;Fagus sylvatica;6;1;0;5;0;0;;FL;12;
+2024;Spring;BET;6;Acer pseudoplatanus;5;0;0;0;0;0;;FL;5;
+2024;Spring;BET;6;Abies alba ;22;21;0;0;0;0;;FL;43;
+2024;Spring;BET;6;Picea abies;33;0;0;0;0;0;;FL;33;
+2024;Spring;BET;8;Acer pseudoplatanus;14;7;0;0;0;0;;FL;21;
+2024;Spring;BET;8;Fagus sylvatica;20;9;0;37;0;0;;FL;66;
+2024;Spring;BET;8;Fraxinus excelsior;1;0;0;0;0;0;;FL;1;
+2024;Spring;BET;8;Abies alba;8;2;0;0;0;0;;FL;10;
+2024;Spring;BET;8;Picea abies;11;1;0;1;0;0;;FL;13;
+2024;Spring;BET;5;Fraxinus excelsior ;2;0;0;0;0;0;;FL;2;
+2024;Spring;BET;5;Acer pseudoplatanus;2;0;0;0;0;0;;FL;2;
+2024;Spring;BET;5;Abies alba ;27;8;0;1;7;3;;FL;46;
+2024;Spring;BET;5;Picea abies;18;3;0;2;60;110;;FL;193;
+2024;Spring;SCH;6;Fagus sylvatica;19;12;0;18;0;2;;FL;51;
+2024;Spring;SCH;6;Acer pseudoplatanus;13;8;0;0;0;0;;FL;21;
+2024;Spring;SCH;6;Fraxinus excelsior;2;0;0;0;0;0;;FL;2;
+2024;Spring;NEU;9;Fagus sylvatica;16;28;0;30;0;1;;FL;75;
+2024;Spring;NEU;9;Fraxinus excelsior;1;0;0;0;0;0;;FL;1;
+2024;Spring;NEU;9;Acer pseudoplatanus;1;1;0;0;0;0;;FL;2;
+2024;Spring;NEU;9;Acer platanoides;2;0;0;0;0;0;;FL;2;
+2024;Spring;NEU;9;Tilia platyphyllos;1;0;0;0;0;0;;FL;1;
+2024;Spring;NEU;10;Fagus sylvatica;25;37;0;79;0;4;;FL;145;
+2024;Spring;NEU;10;Acer pseudoplatanus;0;1;0;0;0;0;;FL;1;
+2024;Spring;NEU;10;Tilia cordata;1;0;0;0;0;0;;FL;1;
+2024;Spring;NEU;7;Fagus sylvatica;1;4;0;0;0;0;;FL;5;
+2024;Spring;NEU;7;Acer pseudoplatanus;5;3;0;0;0;0;;FL;8;
+2024;Spring;NEU;7;Acer platanoides;0;1;0;0;0;0;;FL;1;
+2024;Spring;NEU;8;Fagus sylvatica;21;24;0;28;0;6;;FL;79;
+2024;Spring;NEU;8;Acer platanoides;0;1;0;0;0;0;;FL;1;
+2024;Spring;NEU;8;Fraxinus excelsior;3;1;0;0;0;0;;FL;4;
+2024;Spring;BEA;6;Picea abies;144;6;3;0;0;0;;FL;153;
+2024;Spring;BEA;5;Picea abies;160;15;8;0;0;0;;FL;183;
+2024;Spring;BEA;9;Picea abies;246;35;25;0;0;0;;FL;306;
+2024;Spring;NEU;6;Fagus sylvatica;2;25;0;0;0;0;;FL;27;
+2024;Spring;NEU;6;Acer pseudoplatanus;34;25;0;0;0;0;;FL;59;
+2024;Spring;NEU;6;Tilia platyphyllos;1;0;0;0;0;0;;FL;1;
+2024;Spring;NEU;6;Acer platanoides;3;2;0;0;0;0;;FL;5;
+2024;Spring;NEU;3;Fraxinus excelsior;2;0;0;0;0;0;;FL;2;
+2024;Spring;NEU;3;Acer platanoides;0;1;0;0;0;0;;FL;1;
+2024;Spring;NEU;3;Acer pseudoplatanus;2;0;0;0;0;0;;FL;2;
+2024;Spring;NEU;3;Tilia platyphyllos;7;5;0;0;0;0;;FL;12;
+2024;Spring;NEU;3;Fagus sylvatica;18;39;0;59;0;4;;FL;120;
+2024;Spring;NEU;5;Fagus sylvatica;17;18;0;12;0;0;;FL;47;
+2024;Spring;NEU;2;Acer pseudoplatanus;1;0;0;0;0;0;;FL;1;
+2024;Spring;NEU;2;Fagus sylvatica;42;32;0;49;0;3;;FL;126;
+2024;Spring;SCH;2;Acer pseudoplatanus;16;3;0;0;0;0;;FL;19;
+2024;Spring;SCH;2;Acer platanoides;2;1;0;0;0;0;;FL;3;
+2024;Spring;SCH;2;Fraxinus excelsior;4;0;0;0;0;0;;FL;4;
+2024;Spring;SCH;2;Fagus sylvatica;48;9;0;14;0;0;;FL;71;
+2024;Spring;SCH;1;Acer platanoides;0;2;0;0;0;0;;FL;2;
+2024;Spring;SCH;1;Acer pseudoplatanus;16;6;0;0;0;0;;FL;22;
+2024;Spring;SCH;1;Fagus sylvatica;23;4;0;7;0;2;;FL;36;
+2024;Spring;SCH;1;Fraxinus excelsior;4;0;0;0;0;0;;FL;4;
+2024;Spring;SCH;3;Fraxinus excelsior;1;0;0;0;0;0;;FL;1;
+2024;Spring;SCH;3;Acer platanoides;2;0;0;0;0;0;;FL;2;
+2024;Spring;SCH;3;Acer pseudoplatanus;14;4;0;0;0;0;;FL;18;
+2024;Spring;SCH;3;Fagus sylvatica;38;15;0;31;0;1;;FL;85;
+2024;Spring;VOR;6;Fagus sylvatica;17;44;0;26;1;2;;FL;90;
+2024;Spring;VOR;6;Picea abies;0;1;0;0;0;0;;FL;1;
+2024;Spring;VOR;6;Abies alba;1;0;0;0;0;0;;FL;1;
+2024;Fall;NAT;2;Pinus mugo;0;0;2;0;0;0;;;;
+2024;Fall;NAT;3;Pinus mugo;1;0;2;0;0;0;;;;
+2024;Fall;NAT;4;Pinus mugo;2;0;23;0;0;0;;;;
+2024;Fall;NAT;5;Pinus mugo;0;0;1;0;0;0;;;;
+2024;Fall;NAT;6;Pinus mugo;0;0;29;0;0;0;;;;
+2024;Fall;NAT;7;Pinus mugo;0;0;15;0;0;0;;;;
+2024;Fall;NAT;8;Pinus mugo;0;0;9;0;0;0;;;;
+2024;Fall;NAT;9;Pinus mugo;0;0;19;0;0;0;;;;
+2024;Fall;NAT;10;Pinus mugo;2;0;21;0;0;0;;;;
+2024;Fall;CEL;8;Larix decidua;3;5;8;0;0;0;;;;
+2024;Fall;CEL;9;Larix decidua;2;0;0;0;0;0;;;;
+2024;Fall;CEL;10;Pinus cembra;0;5;12;0;0;0;;;;
+2024;Fall;CEL;10;Larix decidua;0;1;2;0;0;0;;;;
+2024;Fall;CEL;7;Larix decidua;7;0;0;1;2;4;;;;
+2024;Fall;NAT;1;Pinus mugo;1;4;35;1;0;0;;;;
+2024;Fall;SCH;2;Larix decidua;2;0;0;0;0;0;;;;
+2024;Fall;SCH;2;Fagus sylvatica;0;4;0;0;0;0;;;;
+2024;Fall;SCH;2;Fraxinus excelsior;0;4;0;0;0;0;;;;
+2024;Fall;SCH;2;Acer pseudoplatanus;3;3;0;0;0;0;;;;
+2024;Fall;SCH;1;Acer pseudoplatanus;3;5;0;0;0;0;;;;
+2024;Fall;SCH;1;Larix decidua;7;0;0;0;0;0;;;;
+2024;Fall;SCH;1;Fagus sylvatica;0;0;0;1;0;0;;;;
+2024;Fall;SCH;3;Acer pseudoplatanus;1;0;0;0;0;0;;;;
+2024;Fall;SCH;3;Fraxinus excelsior;0;2;0;0;0;0;;;;
+2024;Fall;SCH;3;Larix decidua;4;0;0;0;0;0;;;;
+2024;Fall;SCH;3;Fagus sylvatica;0;0;0;3;0;4;;;;
+2024;Fall;SCH;6;Acer pseudoplatanus;1;1;0;0;0;0;;;;
+2024;Fall;SCH;6;Fraxinus excelsior;0;1;0;0;0;0;;;;
+2024;Fall;SCH;6;Fagus sylvatica;0;0;0;1;0;0;;;;
+2024;Fall;SCH;4;Fraxinus excelsior;1;0;0;0;0;0;;;;
+2024;Fall;SCH;4;Larix decidua;3;0;0;0;0;0;;;;
+2024;Fall;SCH;4;Acer platanoides;0;2;0;0;0;0;;;;
+2024;Fall;SCH;4;Acer pseudoplatanus;10;8;0;0;0;0;;;;
+2024;Fall;SCH;4;Fagus sylvatica;0;0;0;1;0;0;;;;
+2024;Fall;SCH;5;Larix decidua;3;0;0;0;0;0;;;;
+2024;Fall;SCH;5;Fagus sylvatica;0;1;0;1;0;0;;;;
+2024;Fall;SCH;5;Acer pseudoplatanus;1;10;0;0;0;0;;;;
+2024;Fall;SCH;7;Larix decidua;1;0;0;0;0;0;;;;
+2024;Fall;SCH;7;Fraxinus excelsior;0;1;0;0;0;0;;;;
+2024;Fall;SCH;7;Acer pseudoplatanus;10;11;0;0;0;0;;;;
+2024;Fall;SCH;7;Fagus sylvatica;0;0;0;1;0;0;;;;
+2024;Fall;SCH;8;Larix decidua;1;0;1;0;0;0;;;;
+2024;Fall;SCH;8;Acer pseudoplatanus;5;1;0;0;0;0;;;;
+2024;Fall;SCH;8;Fagus sylvatica;0;0;0;2;0;0;;;;
+2024;Fall;SCH;9;Larix decidua;1;0;0;0;0;0;;;;
+2024;Fall;SCH;9;Fagus sylvatica;0;2;0;3;0;0;;;;
+2024;Fall;SCH;9;Acer pseudoplatanus;5;6;0;0;0;0;;;;
+2024;Fall;SCH;10;Larix decidua;2;0;0;0;0;0;;;;
+2024;Fall;SCH;10;Acer pseudoplatanus;4;3;0;0;0;0;;;;
+2024;Fall;SCH;10;Fagus sylvatica;0;0;0;1;0;0;;;;
+2024;Fall;CEL;1;Larix decidua;15;4;2;0;0;0;;;;
+2024;Fall;CEL;1;Pinus cembra;0;0;1;0;0;0;;;;
+2024;Fall;CEL;1;Picea abies;0;1;0;0;0;0;;;;
+2024;Fall;CEL;2;Larix decidua;17;11;0;0;0;0;;;;
+2024;Fall;CEL;2;Pinus cembra;0;1;0;0;0;0;;;;
+2024;Fall;CEL;3;Larix decidua;2;0;0;1;9;5;;;;
+2024;Fall;CEL;3;Pinus cembra;0;1;1;0;0;0;;;;
+2024;Fall;CEL;4;Pinus cembra;0;0;1;0;0;0;;;;
+2024;Fall;CEL;5;Larix decidua;5;0;0;0;0;0;;;;
+2024;Fall;CEL;6;Pinus cembra;0;1;1;0;0;0;;;;
+2024;Fall;CEL;6;Larix decidua;6;2;0;0;0;0;;;;
+2024;Fall;CEL;6;Picea abies;0;2;0;0;0;0;;;;
+2024;Fall;NEU;2;Fagus sylvatica;0;10;0;22;0;6;;;;
+2024;Fall;NEU;2;Acer pseudoplatanus;4;3;0;0;0;0;;;;
+2024;Fall;NEU;2;Fagus sylvatica;2;7;0;14;0;4;;;;
+2024;Fall;NEU;2;Acer pseudoplatanus;4;10;0;0;0;0;;;;
+2024;Fall;NEU;3;Fagus sylvatica;1;7;0;12;0;6;;;;
+2024;Fall;NEU;3;Acer pseudoplatanus;6;2;0;0;0;0;;;;
+2024;Fall;NEU;3;Tilia platyphyllos;15;0;0;0;0;0;;;;
+2024;Fall;NEU;4;Fagus sylvatica;3;38;0;38;0;8;;;;
+2024;Fall;NEU;4;Acer pseudoplatanus;1;0;0;0;0;0;;;;
+2024;Fall;NEU;5;Fagus sylvatica;2;8;0;6;0;1;;;;
+2024;Fall;NEU;5;Acer pseudoplatanus;0;2;0;0;0;0;;;;
+2024;Fall;NEU;5;Tilia platyphyllos;0;3;0;0;0;0;;;;
+2024;Fall;NEU;7;Fagus sylvatica;0;3;0;21;0;0;;;;
+2024;Fall;NEU;7;Acer pseudoplatanus;1;24;0;0;0;0;;;;
+2024;Fall;NEU;7;Tilia platyphyllos;1;0;0;0;0;0;;;;
+2024;Fall;NEU;9;Fagus sylvatica;0;2;0;3;0;0;;;;
+2024;Fall;NEU;9;Tilia platyphyllos;1;1;0;0;0;0;;;;
+2024;Fall;NEU;9;Tilia cordata;1;0;0;0;0;0;;;;
+2024;Fall;NEU;10;Fagus sylvatica;3;38;0;28;0;0;;;;
+2024;Fall;NEU;10;Acer pseudoplatanus;4;3;0;0;0;0;;;;
+2024;Fall;NEU;8;Fagus sylvatica;1;7;0;14;0;4;;;;
+2024;Fall;NEU;6;Acer pseudoplatanus;14;67;0;0;0;0;;;;
+2024;Fall;NEU;6;Fagus sylvatica;0;1;0;2;0;0;;;;
+2024;Fall;NEU;6;Fraxinus excelsior;0;5;0;0;0;0;;;;
+2024;Fall;NEU;6;Tilia platyphyllos;4;2;0;0;0;0;;;;
+2024;Fall;NEU;6;Pinus sylvestris;1;0;0;0;0;0;;;;
+2024;Fall;VOR;4;Quercus petraea;27;0;0;0;0;0;;;;
+2024;Fall;VOR;4;Abies alba;1;1;0;0;0;0;;;;
+2024;Fall;VOR;4;Larix decidua;6;0;0;0;0;0;;;;
+2024;Fall;VOR;4;Picea abies;7;0;0;0;0;0;;;;
+2024;Fall;VOR;1;Picea abies;9;1;0;0;0;0;;;;
+2024;Fall;VOR;1;Abies alba;1;2;0;0;0;0;;;;
+2024;Fall;VOR;2;Picea abies;2;1;0;0;0;0;;;;
+2024;Fall;VOR;2;Abies alba;8;1;0;1;0;2;;;;
+2024;Fall;VOR;3;Picea abies;3;0;0;0;0;0;;;;
+2024;Fall;VOR;3;Abies alba;1;6;0;0;0;0;;;;
+2024;Fall;VOR;3;Larix decidua;5;0;0;0;0;0;;;;
+2024;Fall;VOR;5;Larix decidua;2;0;0;0;0;0;;;;
+2024;Fall;VOR;5;Abies alba;1;0;0;0;0;0;;;;
+2024;Fall;VOR;5;Picea abies;23;10;3;0;0;0;;;;
+2024;Fall;VOR;6;Fagus sylvatica;0;4;0;1;0;0;;;;
+2024;Fall;VOR;6;Larix decidua;1;1;0;0;0;0;;;;
+2024;Fall;VOR;6;Picea abies;3;3;0;0;0;0;;;;
+2024;Fall;VOR ;6;Quercus petraea;0;1;0;0;0;0;;;;
+2024;Fall;VOR;7;Abies alba;2;1;0;0;0;0;;;;
+2024;Fall;VOR ;7;Picea abies;2;3;0;0;0;0;;;;
+2024;Fall;VOR ;7;Pinus sylvestris;1;0;0;0;0;0;;;;
+2024;Fall;VOR;8;Abies alba;1;4;0;0;0;0;;;;
+2024;Fall;VOR;8;Picea abies;4;1;0;0;0;0;;;;
+2024;Fall;VOR;8;Larix decidua;3;2;0;0;0;0;;;;
+2024;Fall;VOR;9;Abies alba;0;1;0;0;0;0;;;;
+2024;Fall;VOR ;9;Picea abies;3;3;0;0;0;0;;;;
+2024;Fall;VOR;9;Fagus sylvatica;0;1;0;1;0;0;;;;
+2024;Fall;VOR ;9;Larix decidua;3;0;0;0;0;0;;;;
+2024;Fall;VOR ;10;Abies alba;0;2;0;0;0;0;;;;
+2024;Fall;VOR;10;Picea abies;5;3;0;0;0;0;;;;
+2024;Fall;VOR;10;Larix decidua;1;0;0;0;0;0;;;;
+2024;Fall;BEA ;1;Picea abies;2;4;0;0;0;0;;;;
+2024;Fall;BEA ;2;Picea abies;3;4;0;0;0;0;;;;
+2024;Fall;BEA ;3;Picea abies;2;2;0;0;0;0;;;;
+2024;Fall;BEA ;4;Picea abies;2;4;1;0;0;0;;;;
+2024;Fall;BEA ;5;Picea abies;11;9;0;0;0;0;;;;
+2024;Fall;BET;8;Picea abies;24;14;0;0;0;0;;;;
+2024;Fall;BET;8;Acer pseudoplatanus;0;4;0;0;0;0;;;;
+2024;Fall;BET;8;Fagus sylvatica;0;0;0;1;0;0;;;;
+2024;Fall;BET;8;Picea abies;0;0;0;1;64;92;;;;
+2024;Fall;BET;9;Picea abies;6;6;2;0;0;0;;;;
+2024;Fall;BET;10;Picea abies;3;8;0;0;0;0;;;;
+2024;Fall;BET ;10;Fagus sylvatica;0;0;0;1;0;0;;;;
+2024;Fall;BET ;1;Picea abies;12;5;0;0.5;0;0;;;;
+2024;Fall;BET;1;Abies alba;1;0;0;0;0;0;;;;
+2024;Fall;BET;1;Acer pseudoplatanus;1;0;0;0;0;0;;;;
+2024;Fall;BET;1;Fagus sylvatica;0;0;0;5;0;0;;;;
+2024;Fall;BET;2;Fagus sylvatica;0;1;0;3;0;0;;;;
+2024;Fall;BET;2;Picea abies;17;2;0;2;13;15;;;;
+2024;Fall;BET;2;Pinus mugo;1;0;0;0;0;0;;;;
+2024;Fall;BET;3;Fagus sylvatica;3;0;0;0;0;0;;;;
+2024;Fall;BET ;3;Acer pseudoplatanus;0;1;0;0;0;0;;;;
+2024;Fall;BET;4;Fagus sylvatica;0;1;0;1;0;0;;;;
+2024;Fall;BET;4;Acer pseudoplatanus;2;6;0;0;0;0;;;;
+2024;Fall;BET;4;Picea abies;84;64;9;1;53;39;;;;
+2024;Fall;BET;5;Abies alba;0;1;0;0;0;0;;;;
+2024;Fall;BET;5;Acer pseudoplatanus;0;1;0;0;0;0;;;;
+2024;Fall;BET;5;Picea abies;17;18;0;0;0;0;;;;
+2024;Fall;BET;6;Fagus sylvatica;0;1;0;1;0;2;;;;
+2024;Fall;BET ;6;Abies alba;1;2;0;0;0;0;;;;
+2024;Fall;BET;6;Picea abies;12;11;0;0;0;0;;;;
+2024;Fall;BET;7;Picea abies;35;12;0;2;112;108;;;;
+2024;Fall;BET;7;Fagus sylvatica;0;1;0;0;0;0;;;;
+2024;Fall;BET;7;Abies alba;0;1;0;0;0;0;;;;
+2024;Fall;BEA ;6;Picea abies;11;1;2;0;0;0;;;;
+2024;Fall;BEA ;7;Picea abies;6;6;9;0;0;0;;;;
+2024;Fall;BEA ;8;Picea abies;10;7;2;0;0;0;;;;
+2024;Fall;BEA ;9;Picea abies;11;9;2;0;0;0;;;;
+2024;Fall;BEA ;10;Picea abies;11;7;0;0;0;0;;;;
+2023;Spring;BEA;8;Picea abies;3;0;0;1;6;1;+ underdeveloped seeds;LW;11;
+2023;Spring;BEA;8;Betula pendula;1;0;0;0;0;0;;LW;1;
+2023;Spring;BEA;8;Abies alba;1;1;0;0;0;0;;LW;2;
+2023;Spring;BEA;2;Picea abies;8;3;0;1;43;9;;LW;64;
+2023;Spring;SCH;10;Fagus sylvatica;3;13;0;3;0;0;;LW;19;
+2023;Spring;SCH;10;Betula pendula;4;0;0;0;0;0;unsure if filled/unfilled;LW;4;
+2023;Spring;SCH;10;Abies alba;3;0;0;0;0;0;;LW;3;
+2023;Spring;SCH;10;Fraxinus excelsior;1;1;0;0;0;0;;LW;2;
+2023;Spring;SCH;10;Acer pseudoplatanus;12;8;0;0;0;0;;LW;20;
+2023;Spring;CEL;8;Larix decidua;43;9;19;2;9;11;;LW;93;
+2023;Spring;CEL;8;Pinus cembra;1;0;0;0;0;0;;LW;1;
+2023;Spring;VOR;8;Abies alba;10;5;0;0;0;0;;LW;15;
+2023;Spring;BET;7;Picea abies;4;2;0;2;14;9;;LW;31;
+2023;Spring;BET;7;Abies alba;14;2;0;0;0;0;;LW;16;
+2023;Spring;CEL;3;Pinus cembra;2;3;0;1;32;0;;LW;38;
+2023;Spring;CEL;3;Larix decidua;9;2;0;0;0;0;;LW;11;
+2023;Spring;CEL;10;Larix decidua;11;0;0;0;0;0;;LW;11;
+2023;Spring;BEA;6;Picea abies;0;1;0;0;0;0;;LW;1;
+2023;Spring;BEA;6;Abies alba;1;0;0;0;0;0;;LW;1;
+2023;Spring;VOR;1;Abies alba;49;27;0;0;0;0;;LW;76;
+2023;Spring;VOR;6;Fagus sylvatica;0;6;0;3;0;0;+ underdeveloped seeds;LW;9;
+2023;Spring;VOR;6;Betula pendula;1;0;0;0;0;0;;LW;1;
+2023;Spring;VOR;6;Picea abies;0;1;0;0;0;0;;LW;1;
+2023;Spring;VOR;6;Larix decidua;1;0;0;0;0;0;;LW;1;
+2023;Spring;VOR;6;Abies alba;12;1;0;0;0;0;;LW;13;
+2023;Spring;BEA;7;Picea abies;0;1;0;0;0;0;1 underdeveloped cone, probably Picea abies. Seeds not developed. ;LW;1;
+2023;Spring;BEA;7;Betula pendula;1;0;0;0;0;0;;LW;1;
+2023;Spring;VOR;10;Abies alba;30;13;0;0;0;0;;LW;43;
+2023;Spring;VOR;10;Picea abies;6;4;0;0;0;0;;LW;10;
+2023;Spring;CEL;7;Pinus cembra;1;1;0;0;0;0;;LW;2;
+2023;Spring;CEL;7;Larix decidua;31;11;0;0;0;0;;LW;42;
+2023;Spring;VOR;2;Abies alba;97;42;0;0;0;0;;LW;139;
+2023;Spring;VOR ;7;Abies alba;49;26;0;0;0;0;;LW;75;
+2023;Spring;VOR;7;Larix decidua;1;0;0;0;0;0;;LW;1;
+2023;Spring;VOR;7;Pinus sylvestris;1;0;0;0;0;0;;LW;1;
+2023;Spring;NEU;9;Acer pseudoplatanus;0;2;0;0;0;0;;JN;2;
+2023;Spring;NEU;9;Fagus sylvatica;1;28;2;21;0;0;;JN;52;
+2023;Spring;NEU;5;Tilia platyphyllus;1;0;0;0;0;0;;JN;1;
+2023;Spring;NEU;5;Acer pseudoplatanus;1;1;0;0;0;0;;JN;2;
+2023;Spring;NEU;5;Tilia cordata;1;0;0;0;0;0;;JN;1;
+2023;Spring;NEU;5;Fagus sylvatica;13;14;0;4;0;0;;JN;31;
+2023;Spring;NEU;10;Acer pseudoplatanus;0;1;0;0;0;0;;JN;1;
+2023;Spring;NEU;10;Fagus sylvatica;18;25;0;16,5;1;2;;JN;62,5;
+2023;Spring;NEU;6;Acer pseudoplatanus;6;27;0;0;0;0;;JN;33;
+2023;Spring;NEU;6;Tilia cordata;0;1;0;0;0;0;;JN;1;
+2023;Spring;SCH;8;Acer pseudoplatanus;9;8;0;0;0;0;1 filled seed has germiNATed;JN;17;
+2023;Spring;SCH;8;Fagus sylvatica;0;3;0;1;0;0;;JN;4;
+2023;Spring;SCH;8;Acer platanoides;0;1;0;0;0;0;;JN;1;
+2023;Spring;SCH;8;Abies alba;4;19;0;0;0;0;3 unfilled are underdeveloped ;JN;23;
+2023;Spring;NEU;7;Acer pseudoplatanus;5;19;0;0;0;0;;JZ;24;
+2023;Spring;NEU;7;Fagus sylvatica;2;8;0;1;0;2;;JZ;13;
+2023;Spring;NEU;7;Fraxinus excelsior;1;0;0;0;0;0;;JZ;1;
+2023;Spring;NEU;7;Tilia cordata;3;0;0;0;0;0;;JZ;3;
+2023;Spring;NEU;1;Fagus sylvatica;2;25;0;14;0;2;;JZ;43;
+2023;Spring;NEU;1;Acer pseudoplatanus;0;3;0;0;0;0;;JZ;3;
+2023;Spring;NEU;4;Fagus sylvatica;0;31;2;9;0;0;;JZ;42;
+2023;Spring;NEU;2;Fagus sylvatica;5;43;0;16;0;1;;JZ;65;
+2023;Spring;NEU;2;Acer pseudoplatanus;0;1;0;0;0;0;;JZ;1;
+2023;Spring;NEU;3;Fagus sylvatica;1;7;0;11;0;0;;JZ;19;
+2023;Spring;NEU;3;Sorbus aria;1;0;0;0;0;0;difficult to identify/uncertain;JZ;1;
+2023;Spring;NEU;3;Acer pseudoplatanus;1;3;0;0;0;0;;JZ;4;
+2023;Spring;SCH;4;Fagus sylvatica;0;13;0;2;0;0;;JZ;15;
+2023;Spring;SCH;4;Abies alba;1;4;0;0;0;0;;JZ;5;
+2023;Spring;SCH;4;Acer platanoides;0;2;0;0;0;0;;JZ;2;
+2023;Spring;SCH;4;Acer pseudoplatanus;2;12;0;0;0;0;;JZ;14;
+2023;Spring;SCH;4;Picea abies;1;0;0;0;0;0;Not on site list;JZ;1;
+2023;Spring;SCH;1;Acer pseudoplatanus;1;3;0;0;0;0;;JZ;4;
+2023;Spring;SCH;1;Picea abies;1;0;0;0;0;0;Not on site list;JZ;1;
+2023;Spring;SCH;1;Fagus sylvatica;0;3;0;0;0;0;;JZ;3;
+2023;Spring;SCH;5;Fagus sylvatica;1;12;0;2;0;0;;JZ;15;
+2023;Spring;SCH;5;Acer pseudoplatanus;3;9;0;0;0;0;;JZ;12;
+2023;Spring;SCH;5;Abies alba;5;3;0;0;0;0;;JZ;8;
+2023;Spring;SCH;5;Fraxinus excelsior;0;1;0;0;0;0;;JZ;1;
+2023;Spring;SCH;7;Fagus sylvatica;0;1;0;0;0;0;;JZ;1;
+2023;Spring;SCH;7;Acer pseudoplatanus;17;14;0;0;0;0;;JZ;31;
+2023;Spring;SCH;7;Fraxinus excelsior;2;0;0;0;0;0;;JZ;2;
+2023;Spring;SCH;7;Abies alba;0;2;0;0;0;0;;JZ;2;
+2023;Spring;SCH;6;Acer pseudoplatanus;2;6;0;0;0;0;;JZ;8;
+2023;Spring;SCH;6;Abies alba;2;3;0;0;0;0;;JZ;5;
+2023;Spring;SCH;6;Picea abies;1;0;0;0;0;0;;JZ;1;
+2023;Spring;SCH;6;Acer platanoides;0;1;0;0;0;0;;JZ;1;
+2023;Spring;SCH;6;Fagus sylvatica;0;5;0;0;0;0;;JZ;5;
+2023;Spring;SCH;3;Acer platanoides;0;2;0;0;0;0;;JZ;2;
+2023;Spring;SCH;3;Picea abies;4;0;0;0;0;0;Not on site list;JZ;4;
+2023;Spring;SCH;3;Acer pseudoplatanus;0;4;0;0;0;0;;JZ;4;
+2023;Spring;SCH;3;Abies alba;0;6;0;0;0;0;;JZ;6;
+2023;Spring;SCH;3;Fagus sylvatica;0;4;0;1;0;0;;JZ;5;
+2023;Spring;SCH;2;Acer pseudoplatanus;3;4;0;0;0;0;;JZ;7;
+2023;Spring;SCH;2;Abies alba;0;2;0;0;0;0;;JZ;2;
+2023;Spring;SCH;2;Fagus sylvatica;0;3;0;1;0;0;;JZ;4;
+2023;Spring;SCH;2;Fraxinus excelsior;1;0;0;0;0;0;;JZ;1;
+2023;Spring;SCH;2;Picea abies;1;0;0;0;0;0;Not on site list;JZ;1;
+2023;Spring;SCH;2;Betula pendula;0;2;0;0;0;0;2 seeds, don't know if filled or unfilled;JZ;2;
+2023;Spring;SCH;9;Acer pseudoplatanus;5;13;0;0;0;0;;JZ;18;
+2023;Spring;SCH;9;Abies alba;5;10;0;0;0;0;;JZ;15;
+2023;Spring;SCH;9;Fagus sylvatica;1;0;0;2;0;0;;JZ;3;
+2023;Spring;NEU;8;Fagus sylvatica;5;20;0;7;0;2;;JZ;34;
+2023;Spring;NEU;8;Tilia cordata;4;0;0;0;0;0;;JZ;4;
+2023;Spring;NEU;8;Acer pseudoplatanus;1;2;0;0;0;0;;JZ;3;
+2023;Spring;BET;10;Fagus sylvatica;0;0;0;1;0;0;;JZ;1;
+2023;Spring;BET;10;Fraxinus excelsior;1;0;0;0;0;0;;JZ;1;
+2023;Spring;BET;10;Abies alba;1;13;0;0;0;0;;JZ;14;
+2023;Spring;NAT;1;Pinus mugo;38;6;11;1;23;0;;JZ;79;
+2023;Spring;NAT;9;Pinus mugo;20;3;11;0;0;0;;JZ;34;
+2023;Spring;NAT;9;Larix decidua;1;0;0;0;0;0;;JZ;1;
+2023;Spring;NAT;7;Pinus mugo;25;4;2;0;0;0;;JZ;31;
+2023;Spring;NAT;8;Pinus mugo;19;1;7;0;0;0;;JZ;27;
+2023;Spring;NAT;5;Pinus mugo;4;0;1;0;0;0;;JZ;5;
+2023;Spring;NAT;5;Larix decidua;1;0;0;0;0;0;;JZ;1;
+2023;Spring;NAT;10;Pinus mugo;18;6;1;0;0;0;;JZ;25;
+2023;Spring;NAT ;10;Pinus cembra;0;0;1;0;0;0;;JZ;1;
+2023;Spring;NAT;3;Pinus mugo;14;2;4;0;0;0;;JZ;20;
+2023;Spring;NAT;2;Pinus mugo;10;5;1;0;0;0;;JZ;16;
+2023;Spring;CEL;1;Larix decidua;48;7;21;0;0;0;;JZ;76;
+2023;Spring;CEL ;1;Pinus cembra;0;0;1;0;0;0;;JZ;1;
+2023;Spring;BET;2;Picea abies;1;5;0;0;0;0;;JZ;6;
+2023;Spring;BET;2;Abies alba;5;24;0;0;0;0;2 underdevelopped cones with seeds, most probably Abies alba ;JZ;29;
+2023;Spring;BET;8;Abies alba;3;10;0;0;0;0;;JZ;13;
+2023;Spring;BET;9;Abies alba;4;9;0;0;0;0;;JZ;13;
+2023;Spring;BET;9;Acer pseudoplatanus;0;1;0;0;0;0;;JZ;1;
+2023;Spring;BET;9;Fraxinus excelsior;0;1;0;0;0;0;;JZ;1;
+2023;Spring;BET;9;Picea abies;1;0;0;0;0;0;;JZ;1;
+2023;Spring;BET;9;Pinaceae spp.?;0;1;0;0;0;0;1 seed unable to identify, probably Pinus or Larix (both not on site list);JZ;1;
+2023;Spring;BET;4;Abies alba;6;5;0;0;0;0;;JZ;11;
+2023;Spring;BET;4;Picea abies;1;0;0;0;0;0;;JZ;1;
+2023;Spring;BET;3;Fagus sylvatica;0;0;0;1;0;0;;JZ;1;
+2023;Spring;BET;3;Abies alba;4;3;0;0;0;0;;JZ;7;
+2023;Spring;BET ;5;Abies alba;10;18;0;0;0;0;;JZ;28;
+2023;Spring;BET ;5;Thuja spp. ;1;0;0;0;0;0;Not on site list;JZ;1;
+2023;Spring;BET;6;Abies alba;39;31;0;0;0;0;;JZ;70;
+2023;Spring;BET;6;Picea abies;2;0;0;0;0;0;;JZ;2;
+2023;Spring;BET;1;Abies alba;19;28;0;0;0;0;;JZ;47;
+2023;Spring;BET;1;Acer pseudoplatanus;1;0;0;0;0;0;;JZ;1;
+2023;Spring;BET;1;Fraxinus excelsior;1;0;0;0;0;0;;JZ;1;
+2023;Spring;VOR;9;Quercus petraea;0;0;0;2;0;1;;JZ;3;
+2023;Spring;VOR;9;Fagus sylvatica;0;1;0;0;0;0;;JZ;1;
+2023;Spring;VOR;9;Pinus spp.;0;1;0;0;0;0;could be Pinus mugo or P. sylvestris;JZ;1;
+2023;Spring;VOR;9;Abies alba;3;6;0;0;0;0;;JZ;9;
+2023;Spring;VOR;9;Picea abies;3;2;0;0;0;0;;JZ;5;
+2023;Spring;CEL;6;Larix decidua;31;6;0;0;0;0;;JZ;37;
+2023;Spring;CEL;9;Larix decidua;20;0;2;0;0;0;;JZ;22;
+2023;Spring;VOR;5;Abies alba;4;5;0;0;0;0;;JZ;9;
+2023;Spring;VOR;5;Picea abies;1;1;0;0;0;0;;JZ;2;
+2023;Spring;VOR;5;Larix decidua;1;0;0;0;0;0;;JZ;1;
+2023;Spring;CEL;4;Larix decidua;3;0;0;0;0;0;;JZ;3;
+2023;Spring;CEL;4;Pinus cembra;0;1;0;0;0;0;;JZ;1;
+2023;Spring;NAT;6;Pinus mugo;14;6;0;0;0;0;;JZ;20;
+2023;Spring;VOR ;3;Abies alba;31;28;0;0;0;0;;JZ;59;
+2023;Spring;VOR;3;Picea abies;0;0;1;0;0;0;;JZ;1;
+2023;Spring;VOR;3;Betula pendula;2;0;0;0;0;0;;JZ;2;
+2023;Spring;CEL;2;Larix decidua;39;8;1;0;0;0;;JZ;48;
+2023;Spring;CEL;2;Pinus cembra;0;2;0;0;0;0;;JZ;2;
+2023;Spring;CEL;5;Larix decidua;7;0;0;0;0;0;;JZ;7;
+2023;Spring;CEL ;5;Pinus cembra;0;0;2;0;0;0;;JZ;2;
+2023;Spring;BEA;4;Picea abies;1;0;0;0;0;0;;JZ;1;
+2023;Spring;BEA;10;Picea abies;3;0;0;0;0;0;;JZ;3;
+2023;Spring;BEA;9;Abies alba;2;0;0;0;0;0;;JZ;2;
+2023;Spring;BEA;9;Picea abies;1;0;0;0;0;0;;JZ;1;
+2023;Spring;NAT;4;Betula pendula;0;1;0;0;0;0;;JZ;1;
+2023;Spring;NAT;4;Pinus mugo;17;4;2;0;0;0;;JZ;23;
+2023;Fall;NEU;1;Acer pseudoplatanus;3;1;0;0;0;0;;AP;4;
+2023;Fall;NEU;7;Fagus sylvatica;102;73;0;57;0;0;;AP;232;
+2023;Fall;NEU;7;Fraxinus excelsior;0;10;0;0;0;0;;AP;10;
+2023;Fall;NEU;7;Acer pseudoplatanus;70;17;0;0;0;0;;AP;87;
+2023;Fall;NEU;7;Acer platanoides;7;0;0;0;0;0;;AP;7;
+2023;Fall;NEU;8;Fraxinus excelsior;4;0;0;0;0;0;;AP;4;
+2023;Fall;NEU;8;Acer pseudoplatanus;0;2;0;0;0;0;;AP;2;
+2023;Fall;NEU;8;Tilia platyphyllos;2;0;0;0;0;0;;AP;2;
+2023;Fall;NEU;8;Fagus sylvatica;87;64;0;60;2;10;;AP;223;
+2023;Fall;NEU;3;Acer pseudoplatanus;13;0;0;0;0;0;;AP;13;
+2023;Fall;NEU;3;Acer platanoides;11;0;0;0;0;0;;AP;11;
+2023;Fall;NEU;3;Tilia platyphyllos;11;8;0;0;0;0;;AP;19;
+2023;Fall;NEU;3;Fagus sylvatica;32;19;0;14;1;2;;AP;68;
+2023;Fall;NEU;2;Fagus sylvatica;82;62;0;49;1;10;;AP;204;
+2023;Fall;NEU;2;Acer platanoides;1;0;0;0;0;0;;AP;1;
+2023;Fall;NEU;5;Fagus sylvatica;13;11;0;10;0;5;;AP;39;
+2023;Fall;NEU;9;Tilia platyphyllos;2;0;0;0;0;0;;AP;2;
+2023;Fall;NEU;9;Acer pseudoplatanus;0;2;0;0;0;0;;AP;2;
+2023;Fall;NEU;9;Fraxinus excelsior;0;1;0;0;0;0;;AP;1;
+2023;Fall;NEU;9;Fagus sylvatica;24;18;0;26;0;6;;AP;74;
+2023;Fall;NEU;10;Betula pendula;1;0;0;0;0;0;;AP;1;
+2023;Fall;NEU;10;Picea abies;1;1;0;0;0;0;;AP;2;
+2023;Fall;NEU;10;Tilia platyphyllos;0;1;0;0;0;0;;AP;1;
+2023;Fall;NEU;10;Acer pseudoplatanus;1;0;0;0;0;0;;AP;1;
+2023;Fall;NEU;10;Fagus sylvatica;57;64;0;44;0;2;;AP;167;
+2023;Fall;VOR;1;Abies alba;19;5;0;0;0;0;;AP;24;
+2023;Fall;VOR;1;Picea abies;16;2;0;0;0;0;;AP;18;
+2023;Fall;VOR;1;Fagus sylvatica;0;1;0;0;0;0;;AP;1;
+2023;Fall;VOR;2;Abies alba;39;14;0;0;2;0;No cones intact but found 2 seeds on cone scales;AP;55;
+2023;Fall;VOR;2;Picea abies;3;0;0;0;0;0;;AP;3;
+2023;Fall;VOR;3;Pinus sylvestris;2;0;0;0;0;0;;AP;2;
+2023;Fall;VOR;3;Picea abies;42;11;0;2;39;46;;AP;140;
+2023;Fall;VOR;3;Abies alba;20;11;0;0;0;0;;AP;31;
+2023;Fall;VOR;4;Picea abies;34;4;0;0;0;0;;AP;38;
+2023;Fall;VOR;4;Abies alba;13;5;0;0;0;0;;AP;18;
+2023;Fall;VOR;5;Picea abies;111;75;0;0;0;0;;AP;186;
+2023;Fall;VOR;5;Abies alba;5;2;0;0;0;0;;AP;7;
+2023;Fall;VOR;6;Fagus sylvatica;7;11;0;0;0;0;;AP;18;
+2023;Fall;VOR;6;Picea abies;25;11;0;0;0;0;;AP;36;
+2023;Fall;VOR;6;Abies alba;4;2;0;0;0;0;;AP;6;
+2023;Fall;VOR;7;Picea abies;51;19;0;0;0;0;;AP;70;
+2023;Fall;VOR;7;Abies alba;6;6;0;0;0;0;;AP;12;
+2023;Fall;VOR;8;Fagus sylvatica;0;3;0;0;0;0;;AP;3;
+2023;Fall;VOR;8;Picea abies;85;35;0;0;0;0;;AP;120;
+2023;Fall;VOR;8;Abies alba;3;7;0;0;0;0;;AP;10;
+2023;Fall;VOR;10;Picea abies;92;55;0;1;10;2;;AP;160;
+2023;Fall;VOR;10;Abies alba;7;0;0;0;0;0;;AP;7;
+2023;Fall;BET;1;Fagus sylvatica;20;14;0;22;0;8;;AP;64;
+2023;Fall;BET;1;Acer pseudoplatanus;1;0;0;0;0;0;;AP;1;
+2023;Fall;BET;1;Picea abies;2;2;0;1;7;13;;AP;25;
+2023;Fall;BET;1;Abies alba;2;1;0;0;0;0;;AP;3;
+2023;Fall;BET;3;Fagus sylvatica;2;0;0;0;0;0;;AP;2;
+2023;Fall;BET;3;Acer pseudoplatanus;6;0;0;0;0;0;;AP;6;
+2023;Fall;BET;3;Picea abies;0;2;0;0;0;0;;AP;2;
+2023;Fall;BET;4;Ulmus glabra;1;0;0;0;0;0;;AP;1;
+2023;Fall;BET;4;Fagus sylvatica;0;5;0;1;0;2;;AP;8;
+2023;Fall;BET;4;Acer pseudoplatanus;5;0;0;0;0;0;;AP;5;
+2023;Fall;BET;5;Abies alba;1;3;0;0;0;0;;AP;4;
+2023;Fall;BET ;6;Fagus sylvatica;2;9;0;15;0;12;;AP;38;
+2023;Fall;BET ;7;Picea abies;18;0;0;2;142;118;1 of the cones had a light colour (pink-ish);AP;280;
+2023;Fall;BET ;7;Acer pseudoplatanus;3;0;0;0;0;0;;AP;3;
+2023;Fall;BET ;7;Fagus sylvatica;2;1;0;0;0;0;;AP;3;
+2023;Fall;BET ;9;Acer pseudoplatanus;6;0;0;0;0;0;;AP;6;
+2023;Fall;BET ;9;Fagus sylvatica;2;4;0;1;0;0;;AP;7;
+2023;Fall;BET ;10;Acer platanoides;2;0;0;0;0;0;;AP;2;
+2023;Fall;BET ;10;Acer pseudoplatanus;18;0;0;0;0;0;;AP;18;
+2023;Fall;BET ;10;Fagus sylvatica;2;3;0;2;0;0;;AP;7;
+2023;Fall;NAT;1;Pinus mugo;16;3;81;3;14;1;;AP;118;
+2023;Fall;NAT;2;Pinus mugo;0;0;10;0;0;0;;AP;10;
+2023;Fall;NAT;3;Pinus mugo;1;1;17;0;0;0;;AP;19;
+2023;Fall;NAT;4;Pinus mugo;1;0;18;0;0;0;;AP;19;
+2023;Fall;NAT;5;Pinus mugo;0;0;1;0;0;0;;AP;1;
+2023;Fall;NAT;6;Pinus mugo;0;0;30;0;0;0;;AP;30;
+2023;Fall;NAT;7;Pinus mugo;7;4;13;1;4;10;;AP;39;
+2023;Fall;NAT;8;Pinus mugo;1;2;9;0;0;0;;AP;12;
+2023;Fall;NAT;9;Pinus mugo;0;0;27;0;0;0;;AP;27;
+2023;Fall;NAT;10;Pinus mugo;0;0;19;0;0;0;;AP;19;
+2023;Fall;CEL;2;Larix decidua;11;6;0;0;0;0;;AP;17;
+2023;Fall;CEL;3;Pinus cembra;2;0;0;0;0;0;;AP;2;
+2023;Fall;CEL;3;Larix decidua;1;3;0;0;0;0;;AP;4;
+2023;Fall;CEL;4;Betula pendula;2;0;0;0;0;0;;AP;2;
+2023;Fall;CEL;4;Pinus cembra;1;0;0;0;0;0;;AP;1;
+2023;Fall;CEL;4;Larix decidua;3;0;0;0;0;0;;AP;3;
+2023;Fall;CEL;6;Pinus cembra;5;0;0;2;0;0;;AP;7;
+2023;Fall;CEL;6;Larix decidua;16;3;0;0;0;0;;AP;19;
+2023;Fall;CEL;7;Betula pendula;0;4;0;0;0;0;;AP;4;
+2023;Fall;CEL;7;Larix decidua;12;8;0;0;0;0;;AP;20;
+2023;Fall;CEL;10;Larix decidua;1;2;0;0;0;0;;AP;3;
+2023;Fall;CEL;1;Larix decidua;13;4;94;0;0;0;;AP;111;
+2023;Fall;NEU;4;Fraxinus excelsior;1;0;0;0;0;0;;LW;1;
+2023;Fall;NEU;4;Tilia platyphyllos;3;0;0;0;0;0;;LW;3;
+2023;Fall;NEU;4;Acer campestre;1;0;0;0;0;0;;LW;1;
+2023;Fall;NEU;4;Acer pseudoplatanus;3;0;0;0;0;0;;LW;3;
+2023;Fall;NEU;4;Fagus sylvatica;3;21;0;28;0;7;holes. 3 cones very small;LW;59;
+2023;Fall;CEL;9;Pinus cembra ;3;3;0;1;49;1;;LW;57;
+2023;Fall;CEL;9;Larix decidua;3;1;0;0;0;0;;LW;4;
+2023;Fall;CEL;8;Larix decidua;17;6;1;10;12;15;;LW;61;
+2023;Fall;BET;8;Fagus sylvatica;16;7;0;10;0;0;Bag 3/3, 3 cones underdeveloped;LW;33;
+2023;Fall;BET;8;Abies alba;2;0;0;0;0;0;Bag 3/3;LW;2;
+2023;Fall;BET;8;Acer pseudoplatanus;12;1;0;0;0;0;Bag 3/3;LW;13;
+2023;Fall;BET;8;Picea abies;1;0;0;0;0;0;Bag 3/3;LW;1;
+2023;Fall;BET;8;Pinus spp.;1;0;0;0;0;0;Bag 3/3. Species unclear. Pinus doesn't occur here;LW;1;
+2023;Fall;BET;2;Fagus sylvatica;5;14;0;16;0;3;1 cone underdeveloped.;LW;38;
+2023;Fall;BET;2;Acer pseudoplatanus;0;1;0;0;0;0;;LW;1;
+2023;Fall;BET;2;Abies alba;2;0;0;0;0;0;;LW;2;
+2023;Fall;BEA;7;Picea abies;3;4;108;2;200;54;;LW;371;
+2023;Fall;BEA;8;Picea abies;2;4;0;1;206;36;;LW;249;
+2023;Fall;SCH;10;Fagus sylvatica;9;12;0;10;0;2;5 cones underdeveloped;LW;33;
+2023;Fall;SCH;10;Fraxinus excelsior;0;1;0;0;0;0;;LW;1;
+2023;Fall;SCH;10;Acer pseudoplatanus;10;2;0;0;0;0;;LW;12;
+2023;Fall;SCH;1;Fagus sylvatica;1;3;0;0;0;0;;LW;4;
+2023;Fall;SCH;1;Fraxinus excelsior;3;2;0;0;0;0;;LW;5;
+2023;Fall;SCH;1;Acer pseudoplatanus;12;6;0;0;0;0;;LW;18;
+2023;Fall;SCH;1;Acer platanoides;2;3;0;0;0;0;;LW;5;
+2023;Fall;VOR;9;Picea abies;110;21;2;0;0;0;;LW;133;
+2023;Fall;VOR;9;Fagus sylvatica;0;1;0;0;0;0;;LW;1;
+2023;Fall;VOR;9;Abies alba;2;2;0;0;0;0;;LW;4;
+2023;Fall;VOR;9;Larix decidua;3;1;0;0;0;0;;LW;4;
+2023;Fall;SCH;8;Fagus sylvatica;11;15;0;16;0;2;2 cones underdeveloped;LW;44;
+2023;Fall;SCH;8;Fraxinus excelsior;1;0;0;0;0;0;;LW;1;
+2023;Fall;SCH;8;Acer pseudoplatanus;8;2;0;0;0;0;;LW;10;
+2023;Fall;NEU;6;Fagus sylvatica;3;5;0;2;0;2;;LW;12;
+2023;Fall;NEU;6;Fraxinus excelsior;1;0;0;0;0;0;;LW;1;
+2023;Fall;NEU;6;Acer pseudoplatanus;10;16;0;0;0;0;;LW;26;
+2023;Fall;NEU;6;Picea abies;0;1;0;0;0;0;;LW;1;
+2023;Fall;NEU;6;Tilia cordata;1;0;0;0;0;0;;LW;1;
+2023;Fall;NEU;6;Tilia platyphyllos;1;0;0;0;0;0;;LW;1;
+2023;Fall;SCH;9;Fagus sylvatica;10;13;0;18;0;7;8 cones underdeveloped;LW;48;
+2023;Fall;SCH;9;Fraxinus excelsior;1;0;0;0;0;0;;LW;1;
+2023;Fall;SCH;9;Abies alba;2;0;0;0;0;0;;LW;2;
+2023;Fall;SCH;9;Acer pseudoplatanus;11;2;0;0;0;0;the unfilled are very small;LW;13;
+2023;Fall;SCH;5;Fagus sylvatica;3;7;0;10;0;5;;LW;25;
+2023;Fall;SCH;5;Acer pseudoplatanus;11;5;0;0;0;0;;LW;16;
+2023;Fall;SCH;5;Abies alba;0;1;0;0;0;0;;LW;1;
+2023;Fall;SCH;4;Fagus sylvatica;3;13;0;8;0;3;;LW;27;
+2023;Fall;SCH;4;Acer pseudoplatanus;1;4;0;0;0;0;;LW;5;
+2023;Fall;SCH;7;Fagus sylvatica;1;2;0;2;0;1;;LW;6;
+2023;Fall;SCH;7;Fraxinus excelsior;3;1;0;0;0;0;;LW;4;
+2023;Fall;SCH;7;Acer pseudoplatanus;5;11;0;0;0;0;;LW;16;
+2023;Fall;SCH;6;Fagus sylvatica;2;1;0;3;0;0;;LW;6;
+2023;Fall;SCH;6;Fraxinus excelsior;1;0;0;0;0;0;;LW;1;
+2023;Fall;SCH;6;Acer pseudoplatanus;2;1;0;0;0;0;;LW;3;
+2023;Fall;SCH;6;Abies alba;0;1;0;0;0;0;;LW;1;
+2023;Fall;SCH;3;Fagus sylvatica;1;12;0;1;0;0;;LW;14;
+2023;Fall;SCH;3;Fraxinus excelsior;1;2;0;0;0;0;;LW;3;
+2023;Fall;SCH;3;Acer platanoides;1;0;0;0;0;0;not 100% sure about species;LW;1;
+2023;Fall;SCH;3;Acer pseudoplatanus;2;2;0;0;0;0;;LW;4;
+2023;Fall;SCH;2;Fagus sylvatica;8;5;0;1;0;0;;LW;14;
+2023;Fall;SCH;2;Acer pseudoplatanus;7;1;0;0;0;0;;LW;8;
+2023;Fall;BET;8;Fagus sylvatica;1;2;0;2;0;0;;LW;5;
+2023;Fall;BET;8;Acer pseudoplatanus;2;1;0;0;0;0;;LW;3;
+2023;Fall;BEA;1;Picea abies;1;0;0;0;0;0;;LW;1;
+2023;Fall;BET;8;Fagus sylvatica;2;4;0;0;0;0;;LW;6;
+2023;Fall;BET;8;Acer pseudoplatanus;2;0;0;0;0;0;;LW;2;
+2023;Fall;BEA;6;Picea abies;2;2;28;0;0;0;;LW;32;
+2023;Fall;BEA;10;Picea abies;1;0;0;0;0;0;;LW;1;
+2023;Fall;BEA;3;Picea abies;1;1;8;0;0;0;;LW;10;
+2023;Fall;BEA;9;Picea abies;3;2;0;0;0;0;;LW;5;
+2023;Fall;BEA;4;Picea abies;4;1;21;0;0;0;;LW;26;
+2023;Fall;BEA;2;Picea abies;4;4;46;0;0;0;;LW;54;
+2023;Fall;BEA;5;Picea abies;6;2;29;0;0;0;;LW;37;
+2022;Spring;BEA;3;Picea abies;2;1;0;0;0;0;;LW;3;
+2022;Spring;BEA;1;Picea abies;6;3;0;0;0;0;;LW;9;
+2022;Spring;BEA;7;Picea abies;9;5;0;0;0;0;;LW;14;
+2022;Spring;NEU;2;Ulmus glabra;3;2;0;0;0;0;Veg. Period;LW;5;
+2022;Spring;NEU;1;Ulmus glabra;0;4;0;0;0;0;Veg. Period;LW;4;
+2022;Spring;NEU;5;Fagus sylvatica;0;0;0;3;0;0;;LW;3;
+2022;Spring;NEU;5;Ulmus glabra;8;20;0;0;0;0;Veg. Period;LW;28;
+2022;Spring;NEU;8;Ulmus glabra;0;1;0;0;0;0;Veg. Period;LW;1;
+2022;Spring;NEU;8;Fagus sylvatica;0;1;0;1;0;0;;LW;2;
+2022;Spring;NEU;9;Fagus sylvatica;0;2;0;2;0;0;;LW;4;
+2022;Spring;BET;3;Fagus sylvatica;0;0;0;1;0;0;;LW;1;
+2022;Spring;BET;3;Picea abies;0;1;0;0;0;0;;LW;1;
+2022;Spring;BET;2;Fagus sylvatica;0;1;0;4;0;0;;LW;5;
+2022;Spring;BET;8;Fagus sylvatica;0;1;0;8;0;0;;LW;9;
+2022;Spring;BET;8;Picea abies;7;1;0;2;76;36;;LW;122;
+2022;Spring;BET;1;Fagus sylvatica;0;0;0;9;0;0;;LW;9;
+2022;Spring;BEA;10;Picea abies;9;0;0;1;39;3;;LW;52;
+2022;Spring;BEA;8;Picea abies;13;1;0;0;0;0;;LW;14;
+2022;Spring;VOR;4;Abies alba;0;1;0;0;0;0;;LW;1;
+2022;Spring;NAT;6;Pinus mugo;1;0;1;0;0;0;;LW;2;
+2022;Spring;CEL;1;Larix decidua;25;41;34;1;21;4;;LW;126;
+2022;Spring;BET;9;Sorbus aria;1;1;0;0;0;0;;LW;2;
+2022;Spring;VOR;3;Abies alba;3;3;0;0;0;0;;NG;6;
+2022;Spring;VOR;3;Picea abies;2;3;0;0;0;0;;NG;5;
+2022;Spring;VOR;3;Larix decidua;1;0;0;0;0;0;;NG;1;
+2022;Spring;CEL;4;Pinus cembra;0;0;1;0;0;0;;NG;1;
+2022;Spring;CEL;4;Larix decidua;0;0;2;0;0;0;;NG;2;
+2022;Spring;VOR;8;Abies alba;3;1;0;0;0;0;;NG;4;
+2022;Spring;VOR;8;Picea abies;2;0;0;0;0;0;;NG;2;
+2022;Spring;VOR;8;Larix decidua;1;0;0;0;0;0;;NG;1;
+2022;Spring;NAT;7;Pinus mugo;2;0;1;0;0;0;;NG;3;
+2022;Spring;VOR;5;Abies alba;1;1;0;0;0;0;;NG;2;
+2022;Spring;VOR;5;Picea abies;2;1;0;0;0;0;;NG;3;
+2022;Spring;VOR;5;Larix decidua;1;0;0;0;0;0;;NG;1;
+2022;Spring;VOR;5;Pinus mugo;1;0;0;0;0;0;;NG;1;
+2022;Spring;CEL;9;Larix decidua;2;0;2;0;0;0;;NG;4;
+2022;Spring;CEL;9;Pinus cembra;0;0;1;0;0;0;;NG;1;
+2022;Spring;CEL;6;Larix decidua;12;0;11;0;0;0;;NG;23;
+2022;Spring;CEL;6;Pinus cembra;0;0;0;3;4;0;;NG;7;
+2022;Spring;BET;5;Abies alba;3;0;0;0;0;0;;NG;3;
+2022;Spring;BET;5;Picea abies;1;1;0;0;0;0;;NG;2;
+2022;Spring;CEL;2;Larix decidua;51;50;76;1;14;0;Accidentialy cut cone seed in half;NG;192;
+2022;Spring;CEL;8;Larix decidua;26;15;17;1;6;23;;NG;88;
+2022;Spring;VOR;6;Picea abies;1;0;0;0;0;0;;NG;1;
+2022;Spring;VOR;6;Larix decidua;3;0;0;0;0;0;;NG;3;
+2022;Spring;VOR;6;Fagus sylvatica;0;0;0;1;0;0;;NG;1;
+2022;Spring;VOR;6;Quercus petraea;0;0;0;2;0;0;;NG;2;
+2022;Spring;BET;6;Abies alba;3;0;0;0;0;0;;NG;3;
+2022;Spring;BET;6;Fagus sylvatica;0;0;0;3;0;0;;NG;3;
+2022;Spring;CEL;6;Pse mem;1;0;0;0;0;0;1 seed probably Pseudotsuga menziesii;NG;1;
+2022;Spring;NEU;3;Ulmus glabra;1;0;1;0;0;0;Veg. Period;NG;2;
+2022;Spring;BET;10;Fagus sylvatica;0;0;0;1;0;0;;NG;1;
+2022;Spring;VOR;10;Abies alba;0;2;0;0;0;0;;NG;2;
+2022;Spring;VOR;10;Picea abies;1;0;0;0;0;0;;NG;1;
+2022;Spring;VOR;10;Larix decidua;1;0;0;0;0;0;;NG;1;
+2022;Spring;BEA;9;Picea abies;8;1;0;0;0;0;;NG;9;
+2022;Spring;BEA;6;Picea abies;4;0;0;0;0;0;;NG;4;
+2022;Spring;SCH;8;Ulmus glabra;0;2;0;0;0;0;Veg. Period;NG;2;
+2022;Spring;SCH;8;Fraxinus excelsior;2;0;0;0;0;0;;NG;2;
+2022;Spring;SCH;5;Ulmus glabra;1;2;0;0;0;0;Veg. Period;NG;3;
+2022;Spring;SCH;5;Larix decidua;1;0;0;0;0;0;;NG;1;
+2022;Spring;SCH;3;Ulmus glabra;2;0;0;0;0;0;Veg. Period;NG;2;
+2022;Spring;SCH;10;Acer pseudoplatanus;2;0;0;0;0;0;;NG;2;
+2022;Spring;BET;4;Fagus sylvatica;0;0;0;1;0;0;;NG;1;
+2022;Spring;BET;4;Picea abies;3;0;0;0;0;0;;NG;3;
+2022;Spring;BET;4;Pinus sylvestris;1;0;0;0;0;0;;NG;1;
+2022;Spring;VOR;7;Abies alba;3;1;0;0;0;0;;NG;4;
+2022;Spring;VOR;7;Picea abies;7;3;0;0;0;0;;NG;10;
+2022;Spring;VOR;7;Pinus sylvestris;1;0;0;0;0;0;;NG;1;
+2022;Spring;VOR;7;Larix decidua;2;0;0;0;0;0;;NG;2;
+2022;Spring;NAT;1;Pinus mugo;2;2;0;0;0;0;;NG;4;
+2022;Spring;CEL;10;Larix decidua;2;1;0;0;0;0;;NG;3;
+2022;Spring;CEL;10;Pinus cembra;0;0;1;0;0;0;;NG;1;
+2022;Spring;VOR;9;Pinus sylvestris;1;0;0;0;0;0;;NG;1;
+2022;Spring;VOR;9;Picea abies;5;2;0;0;0;0;;NG;7;
+2022;Spring;VOR;9;Larix decidua;2;0;0;0;0;0;;NG;2;
+2022;Spring;BEA;4;Picea abies;0;1;0;0;0;0;;NG;1;
+2022;Spring;BEA;2;Abies alba;0;1;0;0;0;0;;NG;1;
+2022;Spring;BEA;2;Picea abies;3;1;0;0;0;0;;NG;4;
+2022;Spring;BEA;5;Picea abies;4;1;0;0;0;0;;NG;5;
+2022;Spring;NAT;4;Pinus mugo;1;0;3;0;0;0;;NG;4;
+2022;Spring;CEL;3;Pinus cembra;0;0;2;0;0;0;;NG;2;
+2022;Spring;CEL;3;Larix decidua;5;8;2;0;0;0;;NG;15;
+2022;Spring;NAT;2;Pinus mugo;0;0;1;0;0;0;;NG;1;
+2022;Spring;NAT;5;Pinus mugo;1;0;0;0;0;0;;NG;1;
+2022;Spring;NAT;10;Pinus mugo;1;0;1;0;0;0;;NG;2;
+2022;Spring;VOR;1;Abies alba;1;1;0;0;0;0;;NG;2;
+2022;Spring;NAT;8;Pinus mugo;1;0;2;0;0;0;;NG;3;
+2022;Spring;VOR;2;Abies alba;5;8;0;0;0;0;;NG;13;
+2022;Spring;NAT;9;Pinus mugo;2;1;0;0;0;0;;NG;3;
+2022;Spring;CEL;7;Larix decidua;11;6;14;0;0;0;;NG;31;
+2022;Spring;CEL;7;Pinus mugo;0;0;1;0;0;0;;NG;1;
+2022;Spring;CEL;5;Larix decidua;2;0;3;0;0;0;;NG;5;
+2022;Spring;CEL;5;Ulmus glabra;1;0;0;0;0;0;Veg. Period;NG;1;
+2022;Spring;BET;7;Picea abies;4;1;0;0;0;0;;NG;5;
+2022;Fall;NEU;4;Fagus sylvatica;3;14;0;11;0;0;Duff sorted twice. Of unfilled: 5 with holes, 8 aborted (tin embryo), 1 pieces put together. ;LW;28;
+2022;Fall;BEA;8;Picea abies;1;3;0;1;187;29;;LW;221;
+2022;Fall;BEA;3;Betula pendula;1;0;0;0;0;0;It looks like it's germiNATed —> filled;LW;1;
+2022;Fall;VOR ;2;Betula pendula;3;0;0;0;0;0;;LW;3;
+2022;Fall;VOR ;2;Picea abies;1;0;0;0;0;0;;LW;1;
+2022;Fall;VOR;2;Abies alba;16;9;0;0;3;2;"<— these 5 were still on scales; where to put them?";LW;30;
+2022;Fall;VOR;2;Unknown;1;0;0;0;0;0;;LW;1;
+2022;Fall;BET ;3;Picea abies;1;0;0;0;0;0;Duff sorted twice;LW;1;
+2022;Fall;BET ;2;Unknown;1;0;0;0;;0;Yellow / orange, ~3 mm long. Duff sorted twice. ;LW;1;
+2022;Fall;BET;4;Fraxinus excelsior;0;1;0;0;0;0;I'm assuming it is unfilled as it is very flat. Duff sorted twice. ;LW;1;
+2022;Fall;BET ;4;Picea abies;0;1;0;0;0;0;Seed very small. Duff sorted twice. ;LW;1;
+2022;Fall;BET;9;Picea abies;0;1;0;0;0;0;Duff sorted twice;LW;1;
+2022;Fall;BET;1;Fagus sylvatica;1;0;0;3;0;0;Duff sorted twice;LW;4;
+2022;Fall;VOR;9;Quercus petraea;1;0;0;0;0;0;"Probably Q. petraea; shorter than Q. rubra";LW;1;
+2022;Fall;VOR;9;Abies alba;1;1;0;0;0;0;;LW;2;
+2022;Fall;VOR;9;Picea abies;2;0;0;0;0;0;;LW;2;
+2022;Fall;VOR;9;Pinus sylvestris;0;1;0;0;0;0;Not sure it's really P. sylvestris, possibly Picea abies.  ;LW;1;
+2022;Fall;BEA;7;Picea abies;1;0;0;0;0;0;;LW;1;
+2022;Fall;BET ;1;Abies alba;1;1;0;0;0;0;Duff sorted twice;LW;2;
+2022;Fall;BET;1;Acer pseudoplatanus;1;0;0;0;0;0;Duff sorted twice;LW;1;
+2022;Fall;BET;3;Fagus sylvatica;0;1;0;0;0;0;Duff sorted twice;LW;1;
+2022;Fall;BET;2;Acer pseudoplatanus;1;0;0;0;0;0;Duff sorted twice;LW;1;
+2022;Fall;NEU;4;Tilia platyphyllos;4;0;0;0;0;0;Duff sorted twice;LW;4;
+2022;Fall;BET;4;Abies alba;0;1;0;0;0;0;Duff sorted twice;LW;1;
+2022;Fall;BET;8;Fagus sylvatica;0;0;0;1;0;0;;LW;1;
+2022;Fall;BET;8;Sorbus aucuparia;2;1;0;0;0;0;One is a bit of a cripple;LW;3;
+2022;Fall;BET;8;Picea abies;0;1;0;0;0;0;;LW;1;
+2022;Fall;BET;5;Acer pseudoplatanus;1;0;0;0;0;0;;LW;1;
+2022;Fall;BET;5;Thuja sp.;0;1;0;0;0;0;Thuja here? Sorted by PJ on 15/3/23;LW;1;
+2022;Fall;BET;6;Picea abies;1;0;0;0;0;0;;LW;1;
+2022;Fall;CEL;6;Pinus cembra;0;0;0;3;203;6;unfilled seeds very small, possibly just underdevelopped. These cones were found next to trap, not on it (maybe bounced off);LW;212;
+2022;Fall;CEL ;6;Larix decidua;2;0;0;0;0;0;;LW;2;
+2022;Fall;CEL;5;Larix decidua;1;0;0;0;0;0;;LW;1;
+2022;Fall;CEL;7;Larix decidua;1;2;0;0;0;0;;LW;3;
+2022;Fall;NEU;5;Betula pendula;4;0;0;0;0;0;Cannot tell if filled/unfilled;LS;4;
+2022;Fall;NEU;5;Fagus sylvatica;0;0;0;4;0;0;2x aborted seeds from fem. Repr. str. ;LS;4;
+2022;Fall;NEU;5;Acer pseudoplatanus;1;0;0;0;0;0;;LS;1;
+2022;Fall;NEU;6;Fraxinus excelsior;0;2;0;0;0;0;;LS;2;
+2022;Fall;NEU;6;Acer pseudoplatanus;14;15;0;0;0;0;13 of unfilled are aborted;LS;29;
+2022;Fall;NEU;6;Tilia platyphyllos;5;9;0;0;0;0;9 unfilled are aborted ;LS;14;
+2022;Fall;NAT;1;Pinus mugo;9;2;8;1;1;0;the half seeds were niCELy split in half, so in total 6 unfilled seeds;LS;21;
+2022;Fall;NAT;2;Pinus mugo;6;1;4;0;0;0;so in total 3 unfilled seeds;LS;11;
+2022;Fall;NAT;3;Pinus mugo;13;1;6;0;0;0;so in total 4 unfilled seeds;LS;20;
+2022;Fall;NAT;4;Pinus mugo;10;3;0;0;0;0;pieced together it seems like 3 individual unfilled seeds;LS;13;
+2022;Fall;NAT;5;Pinus mugo;8;1;0;0;0;0;;LS;9;
+2022;Fall;NAT;6;Pinus mugo;7;3;8;0;0;0;;LS;18;
+2022;Fall;NAT ;6;Unknown;1;0;0;0;0;0;Blueberry?;LS;1;
+2022;Fall;NAT ;7;Pinus mugo;10;1;4;0;0;0;so 3 unfilled seeds;LS;15;
+2022;Fall;NAT;7;Juniperus communis;1;0;0;0;0;0;;LS;1;
+2022;Fall;NAT;8;Pinus mugo;11;0;3;0;0;0;3 halves, 2 look like they fit together, one half left.;LS;14;
+2022;Fall;NAT;9;Pinus mugo;9;0;21;0;0;0;so in total 11 unfilled?;LS;30;
+2022;Fall;NAT;10;Pinus mugo;9;3;5;0;0;0;so in total 6 unfilled?;LS;17;
+2022;Fall;VOR;1;Abies alba;2;2;0;0;0;0;2 unfilled are aborted seeds;LS;4;
+2022;Fall;VOR;3;Abies alba;2;3;1;0;0;0;the half seed could also just be counted as 1 unfilled, 3 unfilled are aborted seeds;LS;6;
+2022;Fall;VOR ;3;Picea abies;2;2;0;0;0;0;;LS;4;
+2022;Fall;VOR;3;Larix decidua;2;0;0;0;0;0;;LS;2;
+2022;Fall;NEU;10;Fagus sylvatica;0;20;0;10;0;0;7 unfilled are aborted seeds;LS;30;
+2022;Fall;NEU;10;Tilia platyphyllos;1;0;0;0;0;0;;LS;1;
+2022;Fall;CEL;9;Pinus cembra;0;1;0;1;111;0;The one unfilled consists of 2x 1/3;LS;113;
+2022;Fall;CEL;9;Pinus cembra;0;0;0;2;136;0;"Cones that lay beside trap; possibly bounced off it. ";LS;138;
+2022;Fall;BET;10;Acer pseudoplatanus;5;0;0;0;0;0;;LS;5;
+2022;Fall;NEU;9;Fagus sylvatica;0;2;0;2;0;1;;LS;5;
+2022;Fall;VOR;6;Abies alba;1;1;0;0;0;0;Unfilled one  = underdevelopped;JZ;2;
+2022;Fall;VOR;6;Fagus sylvatica;1;2;0;1;0;0;1 of the 2 unfilled seeds was intact but had a tiny embryo;JZ;4;
+2022;Fall;VOR;7;Abies alba;5;0;0;0;0;0;;JZ;5;
+2022;Fall;VOR;10;Abies alba;5;0;0;0;0;0;;JZ;5;
+2022;Fall;VOR;10;Picea abies;1;0;0;0;0;0;;JZ;1;
+2022;Fall;VOR;10;unknown;1;0;0;0;0;0;VOR T10 has 1 unknown seed. ;JZ;1;
+2022;Fall;NEU;8;Fagus sylvatica;0;4;0;2;0;0;1 cone small. 2 of unfilled small inside but intact;JZ;6;
+2022;Fall;VOR;8;Betula pendula;1;0;0;0;0;0;Unsure if filled or not;JZ;1;
+2022;Fall;VOR;8;Picea abies;1;0;0;0;0;0;;JZ;1;
+2022;Fall;VOR;8;Abies alba;4;5;0;0;0;0;;JZ;9;
+2022;Fall;BEA;6;Picea abies;1;0;0;0;0;0;;JZ;1;
+2022;Fall;VOR;5;Abies alba ;1;1;0;0;0;0;;JZ;2;
+2022;Fall;VOR;5;Picea abies;1;1;0;0;0;0;;JZ;2;
+2022;Fall;BEA;4;Picea abies;1;0;0;0;0;0;;JZ;1;
+2022;Fall;VOR;4;Abies alba;2;4;0;0;0;0;;JZ;6;
+2022;Fall;BEA;1;Betula pendula;1;0;0;0;0;0;Unsure if filled or not;JZ;1;
+2022;Fall;BEA;1;Picea abies;1;0;0;0;0;0;;JZ;1;
+2022;Fall;BEA;2;Picea abies;3;0;0;0;0;0;;JZ;3;
+2022;Fall;BEA;2;Betula pendula;1;0;0;0;0;0;Unsure if filled or not;JZ;1;
+2022;Fall;SCH;2;Acer pseudoplatanus;9;5;0;0;0;0;;JZ;14;
+2022;Fall;SCH;2;Fagus sylvatica;0;5;0;0;0;0;;JZ;5;
+2022;Fall;SCH;1;Acer platanoides;0;2;0;0;0;0;;JZ;2;
+2022;Fall;SCH;1;Acer pseudoplatanus;3;5;0;0;0;0;;JZ;8;
+2022;Fall;SCH;1;Betula pendula;1;0;0;0;0;0;Unsure if filled or not;JZ;1;
+2022;Fall;SCH;3;Acer pseudoplatanus;1;0;0;0;0;0;;JZ;1;
+2022;Fall;SCH;6;Acer pseudoplatanus;4;2;0;0;0;0;;JZ;6;
+2022;Fall;SCH;6;Acer platanoides;0;1;0;0;0;0;;JZ;1;
+2022;Fall;SCH;7;Abies alba;1;0;0;0;0;0;;JZ;1;
+2022;Fall;SCH;7;Acer pseudoplatanus;4;5;0;0;0;0;;JZ;9;
+2022;Fall;SCH;7;Betula pendula;1;0;0;0;0;0;Unsure if filled or not;JZ;1;
+2022;Fall;SCH;10;Betula pendula;1;0;0;0;0;0;Unsure if filled or not;JZ;1;
+2022;Fall;SCH;10;Fagus sylvatica;0;1;0;0;0;0;;JZ;1;
+2022;Fall;SCH;10;Acer pseudoplatanus;0;1;0;0;0;0;;JZ;1;
+2022;Fall;SCH;5;Fagus sylvatica;0;0;0;1;0;0;;JZ;1;
+2022;Fall;SCH;5;Acer pseudoplatanus;0;4;0;0;0;0;;JZ;4;
+2022;Fall;SCH;9;Acer pseudoplatanus;4;4;0;0;0;0;;JZ;8;
+2022;Fall;SCH;9;Abies alba;1;0;0;0;0;0;;JZ;1;
+2022;Fall;SCH;9;Betula pendula;0;1;0;0;0;0;Unsure if filled or not;JZ;1;
+2022;Fall;SCH;4;Acer pseudoplatanus;2;5;0;0;0;0;;JZ;7;
+2022;Fall;SCH;4;Fagus sylvatica;0;1;0;0;0;0;;JZ;1;
+2022;Fall;SCH;8;Acer pseudoplatanus;4;3;0;0;0;0;;JZ;7;
+2022;Fall;SCH;8;Abies alba;0;1;0;0;0;0;;JZ;1;
+2022;Fall;SCH;8;Fraxinus excelsior;0;2;0;0;0;0;;JZ;2;
+2022;Fall;BET;7;Picea abies;0;2;0;0;0;0;;JZ;2;
+2022;Fall;CEL;1;Larix decidua;4;0;5;1;0;0;;JZ;10;
+2022;Fall;CEL ;1;Umbellif. ;79;60;0;0;0;0;Umbelliferous plant;JZ;139;
+2022;Fall;CEL ;2;Larix decidua;7;4;0;0;0;0;;JZ;11;
+2022;Fall;CEL;3;Larix decidua;1;0;0;0;0;0;;JZ;1;
+2022;Fall;CEL ;3;Pinus cembra;0;1;0;0;0;0;;JZ;1;
+2022;Fall;CEL;10;Pinus cembra;0;8;0;0;0;0;;JZ;8;
+2022;Fall;CEL ;8;Larix decidua;6;3;0;0;0;0;;JZ;9;
+2022;Fall;CEL;8;Betula pendula;1;0;0;0;0;0;Unsure if filled or not;JZ;1;
+2022;Fall;NEU;8;Acer pseudoplatanus;1;0;0;0;0;0;;JZ;1;
+2022;Fall;NEU;7;Fraxinus excelsior;0;6;0;0;0;0;5x with very tiny embro;JZ;6;
+2022;Fall;NEU;7;Acer pseudoplatanus;2;10;0;0;0;0;;JZ;12;
+2022;Fall;NEU;1;Acer pseudoplatanus;2;5;0;0;0;0;;JZ;7;
+2022;Fall;NEU;1;Fagus sylvatica;0;8;0;4;0;1;;JZ;13;
+2022;Fall;NEU;2;Acer pseudoplatanus;1;1;0;0;0;0;;JZ;2;
+2022;Fall;NEU;2;Tilia platyphyllos;1;0;0;0;0;0;;JZ;1;
+2022;Fall;NEU;2;Fagus sylvatica;1;29;0;22;0;3;;JZ;55;
+2022;Fall;NEU;3;Tilia platyphyllos;9;30;0;0;0;0;the 30 unfilled seeds are aborted;JZ;39;
+2022;Fall;NEU;3;Fagus sylvatica;0;1;0;1;0;2;;JZ;4;
+2022;Fall;NEU;3;Betula pendula;0;1;0;0;0;0;;JZ;1;
+2022;Fall;NEU;3;Acer pseudoplatanus;4;0;0;0;0;0;;JZ;4;
