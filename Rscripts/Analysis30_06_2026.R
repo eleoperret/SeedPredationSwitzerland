@@ -8,14 +8,14 @@ library(glmmTMB)
 
 getwd()
 setwd("C:/Users/eperret/polybox - Eleonore Perret (eleonore.perret@usys.ethz.ch)@polybox.ethz.ch/phD/PhD/R/Seed_predation/Seed_predation_CH/Seed_predation_CH_analysis_Desktop")
-
-list.files("Data")
+ list.files()
+list.files("Data/Data_For_Analysis/")
 list.files("Data/CameraData/")
 
 #Importing datasets
-seed_data<-read.csv("Data/Seeds_trap_data2.csv", sep=";") #from seed traps
-removal_data2024<-read.csv("Data/FinalCorrected_review_EP.csv", sep=";")
-removal_data2025<-read.csv("Data/SeedSortingData_2025_Clean.csv", sep=",")
+seed_data<-read.csv("Data/Data_For_Analysis/Seeds_trap_data2.csv", sep=";") #from seed traps
+removal_data2024<-read.csv("Data/Data_For_Analysis/FinalCorrected_review_EP.csv", sep=";")
+removal_data2025<-read.csv("Data/Data_For_Analysis/SeedSortingData_2025_Clean.csv", sep=",")
 #to add camera_data
 
 
