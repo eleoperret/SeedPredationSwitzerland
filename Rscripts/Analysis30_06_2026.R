@@ -5,6 +5,7 @@ library(ggplot2)
 library(purrr)
 library(ggeffects)
 library(glmmTMB)
+library(vegan)
 
 getwd()
 setwd("C:/Users/eperret/polybox - Eleonore Perret (eleonore.perret@usys.ethz.ch)@polybox.ethz.ch/phD/PhD/R/Seed_predation/Seed_predation_CH/Seed_predation_CH_analysis_Desktop")
@@ -19,6 +20,64 @@ removal_data2025<-read.csv("Data/Data_For_Analysis/SeedSortingData_2025_Clean.cs
 #to add camera_data
 
 
+
+# Camera_data -------------------------------------------------------------
+#getting data from when the box was full
+BEA_camera_data<-read.csv("Data/CameraData/BEA_SeedPredationExperiment_FULL.csv", sep=",")
+BET_camera_data<-read.csv("Data/CameraData/BET_SeedPredationExperiment_FULL.csv", sep=",")
+NEU_camera_data<-read.csv("Data/CameraData/NEU_SeedPredationExperiment_FULL.csv", sep=",")
+SCH_camera_data<-read.csv("Data/CameraData/SCH_SeedPredationExperiment_FULL.csv", sep=",")
+VOR_camera_data<-read.csv("Data/CameraData/VOR_SeedPredationExperiment_FULL.csv", sep=",")
+WAL_camera_data<-read.csv("Data/CameraData/WAL_SeedPredationExperiment_FULL.csv", sep=",")
+
+camera_list <- list(
+  BEA = BEA_camera_data,
+  BET = BET_camera_data,
+  NEU = NEU_camera_data,
+  SCH = SCH_camera_data,
+  VOR = VOR_camera_data,
+  WAL = WAL_camera_data
+)
+
+camera_list <- lapply(names(camera_list), function(nm) {
+  df <- camera_list[[nm]]
+  
+  # fix type mismatch
+  df$Sighting.Count <- as.integer(df$Sighting.Count)
+  
+  # add site identifier (BEA, BET, etc.)
+  df$Site <- nm
+  
+  # rename Site.Name -> Station, and strip "Station" prefix to leave just the number
+  names(df)[names(df) == "Site.Name"] <- "Station"
+  df$Station <- as.integer(gsub("Station", "", df$Station))
+  
+  df
+})
+
+all_camera_data <- do.call(rbind, camera_list)
+
+
+
+#checking where there are issues with the camera data:
+# Make sure Timestamp is actually a datetime, not just text
+all_camera_data$Timestamp <- as.POSIXct(all_camera_data$Timestamp, format="%Y-%m-%d %H:%M:%S", tz="UTC")
+
+# Extract year for filtering
+all_camera_data$Year <- format(all_camera_data$Timestamp, "%Y")
+
+# Rows where year is NOT 2024 or 2025
+wrong_dates <- all_camera_data[!(all_camera_data$Year %in% c("2024", "2025")), ]
+
+# Quick overview: how many per site/station, and what years show up
+table(wrong_dates$Site, wrong_dates$Year)
+
+# Look at the actual rows
+head(wrong_dates)
+
+#working to figure out what to do now...
+
+str(all_camera_data)
 # Seed data cleaning ------------------------------------------------------
 
 #Seed sorting data clean-up
@@ -212,3 +271,81 @@ summary(model_rank_only)
 
 preds <- ggpredict(model_rank, terms = c("YearsSinceMast", "DominanceRank"))
 plot(preds)
+
+
+# Git issue #2 ------------------------------------------------------------
+
+#Exploratory analysis 
+#Data: camera data + removal data
+str(camera_data); str(removal_data)
+
+# Excluding the humans and none
+all_camera_data <- all_camera_data %>%
+  filter(!Species %in% c("None", "Vehicles/Humans/Livestock"))
+
+# Species richness (number of unique species) per site
+richness <- all_camera_data %>%
+  group_by(Site) %>%
+  summarise(n_species = n_distinct(Species),
+            n_detections = sum(Sighting.Count, na.rm = TRUE))
+
+species_matrix <- all_camera_data %>%
+  group_by(Site, Species) %>%
+  summarise(count = sum(Sighting.Count, na.rm = TRUE), .groups = "drop") %>%
+  tidyr::pivot_wider(names_from = Species, values_from = count, values_fill = 0)
+
+species_matrix
+
+
+# install.packages("vegan")
+
+
+# species_matrix without the Site column, as a numeric matrix
+site_names <- species_matrix$Site
+comm_matrix <- as.matrix(species_matrix[,-1])
+
+diversity_df <- data.frame(
+  Site = site_names,
+  Shannon = diversity(comm_matrix, index = "shannon"),#accounts for both richness and evenness (higher = more diverse)
+  Simpson = diversity(comm_matrix, index = "simpson"),
+  Richness = specnumber(comm_matrix)#Richness is the total of different species
+)
+
+diversity_df
+#We can see that for NEU and WAL, even though richness is high, SI is low indicating the dominance of one specie
+
+diversity_df$Evenness <- diversity_df$Shannon / log(diversity_df$Richness)
+diversity_df
+
+# Total sightings per species per site
+species_totals <- all_camera_data %>%
+  group_by(Site, Species) %>%
+  summarise(total_count = sum(Sighting.Count, na.rm = TRUE), .groups = "drop")
+
+# Top species per site
+top_species <- species_totals %>%
+  group_by(Site) %>%
+  slice_max(order_by = total_count, n = 1)
+
+top_species
+
+#plotting
+
+species_long <- all_camera_data %>%
+  group_by(Site, Species) %>%
+  summarise(total = sum(Sighting.Count, na.rm = TRUE), .groups = "drop") %>%
+  group_by(Site) %>%
+  mutate(prop = total / sum(total)) %>%
+  ungroup()
+
+ggplot(species_long, aes(x = Site, y = prop, fill = Species)) +
+  geom_col() +
+  labs(y = "Proportion of detections", x = "Site", fill = "Species") +
+  theme_minimal()
+
+
+visits_simple <- all_camera_data %>%
+  group_by(Site, Year) %>%
+  summarise(total_visits = sum(Sighting.Count, na.rm = TRUE))
+
+visits_simple
